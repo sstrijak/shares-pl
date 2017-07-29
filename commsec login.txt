@@ -1,0 +1,48 @@
+www.commsec.com.au	23.4.166.83
+www2.commsec.com.au	23.62.240.165
+
+
+POST /Public/HomePage/Login.aspx HTTP/1.1
+Accept: application/x-ms-application, image/jpeg, application/xaml+xml, image/gif, image/pjpeg, application/x-ms-xbap, */*
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; Tablet PC 2.0)
+Content-Type: application/x-www-form-urlencoded
+UA-CPU: AMD64
+Accept-Encoding: gzip, deflate
+Cookie: mbox=check#true#1488680051|session#1488679990933-807282#1488681851|PC#1488679990933-807282.27_16#1489889592; s_cc=true; s_nr=1488680005078-New; s_gpv_PgNm=content%3Acommsec%3Aen%3Ahomepage; s_dl=1; cmgvo=Typed%2FBookmarkedundefinedTyped%2FBookmarked; s_ev47=%5B%5B'Typed%2FBookmarked'%2C'1488680005082'%5D%5D; s_ev48=%5B%5B'Typed%2FBookmarked'%2C'1488680005083'%5D%5D; s_ev49=%5B%5B'Typed%2FBookmarked'%2C'1488680005084'%5D%5D; s_vnum=1490965200087%26vn%3D1; s_invisit=true; s_lastvisit=1488679997088; s_sq=%5B%5BB%5D%5D; aam_tnt=5579914%3DY; aam_uuid=16780194065049373494311203216395365712
+Host: www2.commsec.com.au
+Content-Length: 180
+Connection: Keep-Alive
+Cache-Control: no-cache
+Accept-Language: en-AU
+
+ctl00%24cpContent%24txtLogin=52934144&ctl00%24cpContent%24txtPassword=Wb1GtEFa%21@&__EVENTTARGET=&__EVENTARGUMENT=&ctl00%24cpContent%24btnLogin=&ctl00%24cpContent%24hLegacyStartIn=
+
+
+wget -d --no-check-certificate --post-data="ctl00%24cpContent%24txtLogin=52934144&ctl00%24cpContent%24txtPassword=Wb1GtEFa%21@&__EVENTTARGET=&__EVENTARGUMENT=&ctl00%24cpContent%24btnLogin=&ctl00%24cpContent%24hLegacyStartIn=" -O commsec-login.html  --load-cookies="commsec-login.jar" https://www2.commsec.com.au/Public/HomePage/Login.aspx
+
+wget --no-check-certificate --keep-session-cookies --save-cookies="commsec-login2.jar"  --post-data="ctl00%24cpContent%24txtLogin=52934144&ctl00%24cpContent%24txtPassword=Wb1GtEFa%21@&__EVENTTARGET=&__EVENTARGUMENT=&ctl00%24cpContent%24btnLogin=&ctl00%24cpContent%24hLegacyStartIn=" -O commsec-login2.html https://www2.commsec.com.au/Public/HomePage/Login.aspx
+
+
+wget -d --no-check-certificate --save-headers  --keep-session-cookies --save-cookies="commsec-login.jar" -O commsec-login.html  https://www2.commsec.com.au/Public/HomePage/Login.aspx
+
+
+.netscape.com   TRUE   /   FALSE   946684799   NETSCAPE_ID   100103
+
+
+.commsec.com.au  TRUE   /   FALSE   946684799   mbox check#true#1488680051|session#1488679990933-807282#1488681851|PC#1488679990933-807282.27_16#1489889592 
+.commsec.com.au  TRUE   /   FALSE   946684799   s_cc true
+.commsec.com.au  TRUE   /   FALSE   946684799   s_nr 1488680005078-New
+.commsec.com.au  TRUE   /   FALSE   946684799   s_gpv_PgNm content%3Acommsec%3Aen%3Ahomepage
+.commsec.com.au  TRUE   /   FALSE   946684799   s_dl 1
+.commsec.com.au  TRUE   /   FALSE   946684799   cmgvo Typed%2FBookmarkedundefinedTyped%2FBookmarked
+.commsec.com.au  TRUE   /   FALSE   946684799   s_ev47 %5B%5B'Typed%2FBookmarked'%2C'1488680005082'%5D%5D
+.commsec.com.au  TRUE   /   FALSE   946684799   s_ev48 %5B%5B'Typed%2FBookmarked'%2C'1488680005083'%5D%5D
+.commsec.com.au  TRUE   /   FALSE   946684799   s_ev49 %5B%5B'Typed%2FBookmarked'%2C'1488680005084'%5D%5D
+.commsec.com.au  TRUE   /   FALSE   946684799   s_vnum 1490965200087%26vn%3D1
+.commsec.com.au  TRUE   /   FALSE   946684799   s_invisit true
+.commsec.com.au  TRUE   /   FALSE   946684799   s_lastvisit 1488679997088
+.commsec.com.au  TRUE   /   FALSE   946684799   s_sq %5B%5BB%5D%5D
+.commsec.com.au  TRUE   /   FALSE   946684799   aam_tnt 5579914%3DY
+.commsec.com.au  TRUE   /   FALSE   946684799   aam_uuid 16780194065049373494311203216395365712
+
+

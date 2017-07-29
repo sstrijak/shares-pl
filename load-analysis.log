@@ -1,0 +1,50 @@
+2016-9-4-20:55:9: Mail send result: 250: OK id=1bgV6k-0031U6-UV
+
+2016-9-5-17:19:19: Mail send result: 250: OK id=1bgoDO-001f5F-HB
+
+2016-9-5-17:20:39: Mail send result: 250: OK id=1bgoEf-001fDR-Th
+
+2016-9-5-17:22:53: Mail send result: 250: OK id=1bgoGq-001fP5-2i
+
+2016-9-5-21:25:52: Mail send result: 250: OK id=1bgs3u-002Bp7-H7
+
+2016-9-5-21:27:43: Mail send result: 250: OK id=1bgs5i-002C6D-O1
+
+2016-9-5-21:28:32: Mail send result: 250: OK id=1bgs6V-002CGi-4m
+
+2016-9-7-19:39:19: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '1681180' WHERE `code` = 'AHL'  and `date` = '2001-12-30' and `period` = 'half'
+2016-9-7-19:39:19: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '1294770' WHERE `code` = 'AHL'  and `date` = '2002-06-30' and `period` = 'half'
+2016-9-7-19:39:19: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '1282320' WHERE `code` = 'AHL'  and `date` = '2003-12-30' and `period` = 'half'
+2016-9-7-19:39:19: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '1155940' WHERE `code` = 'AHL'  and `date` = '2004-06-30' and `period` = 'half'
+2016-9-7-19:39:19: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '2975850' WHERE `code` = 'AHL'  and `date` = '2002-06-30' and `period` = 'full'
+2016-9-7-19:39:19: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '2449150' WHERE `code` = 'AHL'  and `date` = '2003-06-30' and `period` = 'full'
+2016-9-7-19:39:19: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '2438160' WHERE `code` = 'AHL'  and `date` = '2004-06-30' and `period` = 'full'
+2016-9-7-19:39:19: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '1918260' WHERE `code` = 'AHL'  and `date` = '2005-06-30' and `period` = 'full'
+2016-9-7-19:39:31: Mail send result: 250: OK id=1bhZM6-001IK2-HJ
+
+2016-9-7-19:44:39: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '1681180' WHERE `code` = 'AHL'  and `date` = '2001-12-30' and `period` = 'half'
+2016-9-7-19:44:39: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '1294770' WHERE `code` = 'AHL'  and `date` = '2002-06-30' and `period` = 'half'
+2016-9-7-19:44:39: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '1282320' WHERE `code` = 'AHL'  and `date` = '2003-12-30' and `period` = 'half'
+2016-9-7-19:44:39: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '1155940' WHERE `code` = 'AHL'  and `date` = '2004-06-30' and `period` = 'half'
+2016-9-7-19:44:39: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '2975850' WHERE `code` = 'AHL'  and `date` = '2002-06-30' and `period` = 'full'
+2016-9-7-19:44:39: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '2449150' WHERE `code` = 'AHL'  and `date` = '2003-06-30' and `period` = 'full'
+2016-9-7-19:44:39: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '2438160' WHERE `code` = 'AHL'  and `date` = '2004-06-30' and `period` = 'full'
+2016-9-7-19:44:39: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '1918260' WHERE `code` = 'AHL'  and `date` = '2005-06-30' and `period` = 'full'
+2016-9-7-19:45:51: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '1681180' WHERE `code` = 'AHL'  and `date` = '2001-12-30' and `period` = 'half'
+2016-9-7-19:45:51: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '1294770' WHERE `code` = 'AHL'  and `date` = '2002-06-30' and `period` = 'half'
+2016-9-7-19:45:51: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '1282320' WHERE `code` = 'AHL'  and `date` = '2003-12-30' and `period` = 'half'
+2016-9-7-19:45:51: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '1155940' WHERE `code` = 'AHL'  and `date` = '2004-06-30' and `period` = 'half'
+2016-9-7-19:45:51: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '2975850' WHERE `code` = 'AHL'  and `date` = '2002-06-30' and `period` = 'full'
+2016-9-7-19:45:51: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '2449150' WHERE `code` = 'AHL'  and `date` = '2003-06-30' and `period` = 'full'
+2016-9-7-19:45:51: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '2438160' WHERE `code` = 'AHL'  and `date` = '2004-06-30' and `period` = 'full'
+2016-9-7-19:45:51: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '1918260' WHERE `code` = 'AHL'  and `date` = '2005-06-30' and `period` = 'full'
+2016-9-7-19:48:52: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '1681180' WHERE `code` = 'AHL'  and `date` = '2001-12-30' and `period` = 'half'
+2016-9-7-19:48:52: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '1294770' WHERE `code` = 'AHL'  and `date` = '2002-06-30' and `period` = 'half'
+2016-9-7-19:48:52: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '1282320' WHERE `code` = 'AHL'  and `date` = '2003-12-30' and `period` = 'half'
+2016-9-7-19:48:52: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '1155940' WHERE `code` = 'AHL'  and `date` = '2004-06-30' and `period` = 'half'
+2016-9-7-19:48:52: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '2975850' WHERE `code` = 'AHL'  and `date` = '2002-06-30' and `period` = 'full'
+2016-9-7-19:48:52: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '2449150' WHERE `code` = 'AHL'  and `date` = '2003-06-30' and `period` = 'full'
+2016-9-7-19:48:52: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '2438160' WHERE `code` = 'AHL'  and `date` = '2004-06-30' and `period` = 'full'
+2016-9-7-19:48:52: Out of range value for column 'epsg' at row 1:UPDATE fundamentals SET `epsg` = '1918260' WHERE `code` = 'AHL'  and `date` = '2005-06-30' and `period` = 'full'
+2017-3-23-21:20:50: No data in .\/html/MMS-Analysis.html data file
+2017-3-23-21:20:57: No data in .\/html/RIC-Analysis.html data file

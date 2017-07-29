@@ -1,0 +1,1190 @@
+Stage	Code	Data1	Value1	Data2	Value2	Ratio	Target	Miss	Price Target
+2017-5-17 for 2017X1	1AG	earning deficit -0.20, -0.10, 0.60, 
+X3	1AG	Close	0.03	aveearn	-1.700000	-0.0176470588235294	>15	-0.00117647058823529	-25.5
+X6	1AG	divs	0.00
+X7	1AG	earning growth -0.20, -0.10, 0.60, 
+X1	88E	earning deficit -0.20, -0.20, -10.80, 
+X3	88E	Close	0.04	aveearn	-3.600000	-0.0111111111111111	>15	-0.000740740740740741	-54
+X6	88E	divs	0.00
+X8	88E	Price	0.04	NetTangibleAssets	0.01	4	<1.2	3.33333333333333	0.012
+X1	88EO	earning deficit -0.20, -0.20, -10.80, 
+X3	88EO	Close	0.03	aveearn	-3.600000	-0.00833333333333333	>15	-0.000555555555555556	-54
+X6	88EO	divs	0.00
+X8	88EO	Price	0.03	NetTangibleAssets	0.01	3	<1.2	2.5	0.012
+X1	AB1	earning deficit -4.00, -2.30, -20.70, 
+X3	AB1	Close	0.04	aveearn	-17.122222	-0.00233614539047561	>15	-0.000155743026031707	-256.83333
+X4	AB1	assets	4318.00	liabilities	2881.00	1.49878514404721	>1.5	0.99919009603147
+X6	AB1	divs	0.00
+X8	AB1	Price	0.04	NetTangibleAssets	0.01	4	<1.2	3.33333333333333	0.012
+X5	ABC	total debt	310000.00	NetCurrentAssets	222100	1.39576767221972	<1.1	1.26887970201793
+X8	ABC	Price	5.68	NetTangibleAssets	1.45	3.91724137931034	<1.2	3.26436781609195	1.74
+X5	ABCKOA	total debt	310000.00	NetCurrentAssets	222100	1.39576767221972	<1.1	1.26887970201793
+X5	ABCKOE	total debt	310000.00	NetCurrentAssets	222100	1.39576767221972	<1.1	1.26887970201793
+X5	ABCKOP	total debt	310000.00	NetCurrentAssets	222100	1.39576767221972	<1.1	1.26887970201793
+X5	ABCKOQ	total debt	310000.00	NetCurrentAssets	222100	1.39576767221972	<1.1	1.26887970201793
+X1	AFT	earning deficit 0.00, 0.00, 0.00, 
+X3	AFT	Close	0.00	aveearn	-0.050000	0	>15	0	-0.75
+X6	AFT	divs	0.00
+X7	AFT	earning growth 0.00, 0.00, 0.00, 
+X8	AFT	Price	0.00	NetTangibleAssets	0.00	0	<1.2	0	0
+X5	AHY	total debt	323686.00	NetCurrentAssets	120229	2.69224563125369	<1.1	2.44749602841245
+X8	AHY	Price	1.76	NetTangibleAssets	0.21	8.38095238095238	<1.2	6.98412698412699	0.252
+X1	AIQ	earning deficit -1.70, 0.20, 0.60, 
+X3	AIQ	Close	0.08	aveearn	-14.020000	-0.00570613409415121	>15	-0.000380408939610081	-210.3
+X4	AIQ	assets	14177.00	liabilities	-999.00	0	>1.5	0
+X6	AIQ	divs	0.00
+X7	AIQ	earning growth -1.70, 0.20, 0.60, 
+X8	AIQ	Price	0.08	NetTangibleAssets	0.00	0	<1.2	0	0
+X1	AJJ	earning deficit -0.70, 0.50, -1.00, 
+X6	AJJ	divs	0.00
+X8	AJJ	Price	0.12	NetTangibleAssets	0.04	3	<1.2	2.5	0.048
+X1	AKP	earning deficit -19.00, -7.20, -10.90, 
+X3	AKP	Close	15.56	aveearn	-8.022222	-1.93961224209452	>15	-0.129307482806301	-120.33333
+X4	AKP	assets	5170.00	liabilities	4930.60	1.04855392852797	>1.5	0.699035952351979
+X5	AKP	total debt	2648.00	NetCurrentAssets	239.4	11.0609857978279	<1.1	10.055441634389
+X6	AKP	divs	0.00
+X7	AKP	earning growth -19.00, -7.20, -10.90, 
+X8	AKP	Price	15.56	NetTangibleAssets	0.02	778	<1.2	648.333333333333	0.024
+X1	AKPJOA	earning deficit -19.00, -7.20, -10.90, 
+X3	AKPJOA	Close	5.20	aveearn	-8.022222	-0.648199463939043	>15	-0.0432132975959362	-120.33333
+X4	AKPJOA	assets	5170.00	liabilities	4930.60	1.04855392852797	>1.5	0.699035952351979
+X5	AKPJOA	total debt	2648.00	NetCurrentAssets	239.4	11.0609857978279	<1.1	10.055441634389
+X6	AKPJOA	divs	0.00
+X7	AKPJOA	earning growth -19.00, -7.20, -10.90, 
+X8	AKPJOA	Price	5.20	NetTangibleAssets	0.02	260	<1.2	216.666666666667	0.024
+X1	AKPJOZ	earning deficit -19.00, -7.20, -10.90, 
+X3	AKPJOZ	Close	1.82	aveearn	-8.022222	-0.226869812378665	>15	-0.0151246541585777	-120.33333
+X4	AKPJOZ	assets	5170.00	liabilities	4930.60	1.04855392852797	>1.5	0.699035952351979
+X5	AKPJOZ	total debt	2648.00	NetCurrentAssets	239.4	11.0609857978279	<1.1	10.055441634389
+X6	AKPJOZ	divs	0.00
+X7	AKPJOZ	earning growth -19.00, -7.20, -10.90, 
+X8	AKPJOZ	Price	1.82	NetTangibleAssets	0.02	91	<1.2	75.8333333333333	0.024
+X5	ALL	total debt	1287800.00	NetCurrentAssets	325900	3.95151887081927	<1.1	3.59228988256297
+X8	ALL	Price	17.97	NetTangibleAssets	-1.04	0	<1.2	0	-1.248
+X5	ALLIOV	total debt	1287800.00	NetCurrentAssets	325900	3.95151887081927	<1.1	3.59228988256297
+X8	ALLIOV	Price	9.83	NetTangibleAssets	-1.04	0	<1.2	0	-1.248
+X5	ALLKOA	total debt	1287800.00	NetCurrentAssets	325900	3.95151887081927	<1.1	3.59228988256297
+X8	ALLKOA	Price	6.26	NetTangibleAssets	-1.04	0	<1.2	0	-1.248
+X5	ALLKOB	total debt	1287800.00	NetCurrentAssets	325900	3.95151887081927	<1.1	3.59228988256297
+X8	ALLKOB	Price	4.08	NetTangibleAssets	-1.04	0	<1.2	0	-1.248
+X5	ALLKOC	total debt	1287800.00	NetCurrentAssets	325900	3.95151887081927	<1.1	3.59228988256297
+X8	ALLKOC	Price	1.60	NetTangibleAssets	-1.04	0	<1.2	0	-1.248
+X5	ALLKOD	total debt	1287800.00	NetCurrentAssets	325900	3.95151887081927	<1.1	3.59228988256297
+X8	ALLKOD	Price	6.22	NetTangibleAssets	-1.04	0	<1.2	0	-1.248
+X5	ALLKOE	total debt	1287800.00	NetCurrentAssets	325900	3.95151887081927	<1.1	3.59228988256297
+X8	ALLKOE	Price	1.24	NetTangibleAssets	-1.04	0	<1.2	0	-1.248
+X5	ALLKOG	total debt	1287800.00	NetCurrentAssets	325900	3.95151887081927	<1.1	3.59228988256297
+X8	ALLKOG	Price	9.10	NetTangibleAssets	-1.04	0	<1.2	0	-1.248
+X5	ALLKOP	total debt	1287800.00	NetCurrentAssets	325900	3.95151887081927	<1.1	3.59228988256297
+X8	ALLKOP	Price	5.84	NetTangibleAssets	-1.04	0	<1.2	0	-1.248
+X5	ALLKOQ	total debt	1287800.00	NetCurrentAssets	325900	3.95151887081927	<1.1	3.59228988256297
+X8	ALLKOQ	Price	5.45	NetTangibleAssets	-1.04	0	<1.2	0	-1.248
+X5	ALLKOU	total debt	1287800.00	NetCurrentAssets	325900	3.95151887081927	<1.1	3.59228988256297
+X8	ALLKOU	Price	4.69	NetTangibleAssets	-1.04	0	<1.2	0	-1.248
+X5	ALLKOV	total debt	1287800.00	NetCurrentAssets	325900	3.95151887081927	<1.1	3.59228988256297
+X8	ALLKOV	Price	6.01	NetTangibleAssets	-1.04	0	<1.2	0	-1.248
+X5	ALLSMY	total debt	1287800.00	NetCurrentAssets	325900	3.95151887081927	<1.1	3.59228988256297
+X8	ALLSMY	Price	0.93	NetTangibleAssets	-1.04	0	<1.2	0	-1.248
+X3	AMB	Close	0.16	aveearn	-2.850000	-0.056140350877193	>15	-0.00374269005847953	-42.75
+X4	AMP	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMP	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMP	Price	5.18	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPBOA	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPBOA	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPBOA	Price	5.03	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPBOE	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPBOE	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPBOE	Price	5.21	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPBOG	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPBOG	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPBOG	Price	5.41	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPBOI	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPBOI	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPBOI	Price	5.11	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPIOL	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPIOL	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPIOL	Price	0.93	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPIOV	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPIOV	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPIOV	Price	2.09	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPIOZ	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPIOZ	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPIOZ	Price	0.96	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPISI	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPISI	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPISI	Price	3.15	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPISK	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPISK	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPISK	Price	1.82	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPIYE	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPIYE	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPIYE	Price	1.21	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPJOE	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPJOE	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPJOE	Price	1.17	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPJOJ	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPJOJ	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPJOJ	Price	1.41	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPJOK	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPJOK	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPJOK	Price	0.36	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPJON	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPJON	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPJON	Price	2.12	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPKOA	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPKOA	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPKOA	Price	0.51	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPKOB	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPKOB	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPKOB	Price	0.78	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPKOC	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPKOC	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPKOC	Price	0.34	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPKOD	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPKOD	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPKOD	Price	0.96	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPKOE	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPKOE	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPKOE	Price	0.96	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPKOF	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPKOF	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPKOF	Price	0.40	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPKOQ	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPKOQ	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPKOQ	Price	0.82	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPKOR	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPKOR	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPKOR	Price	0.54	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPKOS	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPKOS	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPKOS	Price	1.37	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPKOV	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPKOV	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPKOV	Price	1.73	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPLOA	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPLOA	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPLOA	Price	1.32	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPLOB	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPLOB	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPLOB	Price	0.55	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPLOC	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPLOC	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPLOC	Price	1.00	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPLOD	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPLOD	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPLOD	Price	0.74	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPLOR	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPLOR	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPLOR	Price	0.68	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPLOU	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPLOU	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPLOU	Price	0.48	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPLOV	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPLOV	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPLOV	Price	0.44	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPSMB	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPSMB	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPSMB	Price	0.64	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPSMY	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPSMY	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPSMY	Price	0.01	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPSOG	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPSOG	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPSOG	Price	2.82	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPSOM	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPSOM	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPSOM	Price	2.79	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPSS2	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPSS2	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPSS2	Price	0.22	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPSSA	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPSSA	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPSSA	Price	2.52	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	AMPSWR	assets	5480000.00	liabilities	15590000.00	0.351507376523412	>1.5	0.234338251015608
+X5	AMPSWR	total debt		NetCurrentAssets	-10110000	0	<1.1	0
+X8	AMPSWR	Price	2.29	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZ	earning growth 193.40, 268.40, 262.40, 
+X8	ANZ	Price	31.82	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZBOA	earning growth 193.40, 268.40, 262.40, 
+X8	ANZBOA	Price	28.00	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZBOB	earning growth 193.40, 268.40, 262.40, 
+X8	ANZBOB	Price	32.65	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZBOC	earning growth 193.40, 268.40, 262.40, 
+X8	ANZBOC	Price	26.04	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZBOF	earning growth 193.40, 268.40, 262.40, 
+X8	ANZBOF	Price	32.43	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZBOJ	earning growth 193.40, 268.40, 262.40, 
+X8	ANZBOJ	Price	31.78	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZIO2	earning growth 193.40, 268.40, 262.40, 
+X8	ANZIO2	Price	9.55	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZIOA	earning growth 193.40, 268.40, 262.40, 
+X8	ANZIOA	Price	15.90	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZIOL	earning growth 193.40, 268.40, 262.40, 
+X8	ANZIOL	Price	13.07	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZIOV	earning growth 193.40, 268.40, 262.40, 
+X8	ANZIOV	Price	18.62	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZIOZ	earning growth 193.40, 268.40, 262.40, 
+X8	ANZIOZ	Price	12.55	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZISC	earning growth 193.40, 268.40, 262.40, 
+X8	ANZISC	Price	3.55	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZISD	earning growth 193.40, 268.40, 262.40, 
+X8	ANZISD	Price	3.08	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZISE	earning growth 193.40, 268.40, 262.40, 
+X8	ANZISE	Price	6.13	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZISF	earning growth 193.40, 268.40, 262.40, 
+X8	ANZISF	Price	4.40	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZISI	earning growth 193.40, 268.40, 262.40, 
+X8	ANZISI	Price	13.75	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZISK	earning growth 193.40, 268.40, 262.40, 
+X8	ANZISK	Price	17.89	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZISM	earning growth 193.40, 268.40, 262.40, 
+X8	ANZISM	Price	3.98	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZISN	earning growth 193.40, 268.40, 262.40, 
+X8	ANZISN	Price	5.84	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZIWG	earning growth 193.40, 268.40, 262.40, 
+X8	ANZIWG	Price	12.21	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZIYE	earning growth 193.40, 268.40, 262.40, 
+X8	ANZIYE	Price	15.70	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZJOA	earning growth 193.40, 268.40, 262.40, 
+X8	ANZJOA	Price	15.38	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZJOC	earning growth 193.40, 268.40, 262.40, 
+X8	ANZJOC	Price	16.32	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZJOE	earning growth 193.40, 268.40, 262.40, 
+X8	ANZJOE	Price	9.76	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZJOF	earning growth 193.40, 268.40, 262.40, 
+X8	ANZJOF	Price	14.81	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZJOG	earning growth 193.40, 268.40, 262.40, 
+X8	ANZJOG	Price	10.94	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZJOJ	earning growth 193.40, 268.40, 262.40, 
+X8	ANZJOJ	Price	11.70	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZJOM	earning growth 193.40, 268.40, 262.40, 
+X8	ANZJOM	Price	10.13	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZJON	earning growth 193.40, 268.40, 262.40, 
+X8	ANZJON	Price	10.68	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZJOX	earning growth 193.40, 268.40, 262.40, 
+X8	ANZJOX	Price	8.67	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZJOZ	earning growth 193.40, 268.40, 262.40, 
+X8	ANZJOZ	Price	9.70	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZKOA	earning growth 193.40, 268.40, 262.40, 
+X8	ANZKOA	Price	1.91	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZKOB	earning growth 193.40, 268.40, 262.40, 
+X8	ANZKOB	Price	1.38	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZKOC	earning growth 193.40, 268.40, 262.40, 
+X8	ANZKOC	Price	1.27	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZKOD	earning growth 193.40, 268.40, 262.40, 
+X8	ANZKOD	Price	5.65	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZKOE	earning growth 193.40, 268.40, 262.40, 
+X8	ANZKOE	Price	1.34	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZKOG	earning growth 193.40, 268.40, 262.40, 
+X8	ANZKOG	Price	9.29	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZKOI	earning growth 193.40, 268.40, 262.40, 
+X8	ANZKOI	Price	5.54	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZKOJ	earning growth 193.40, 268.40, 262.40, 
+X8	ANZKOJ	Price	3.36	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZKOM	earning growth 193.40, 268.40, 262.40, 
+X8	ANZKOM	Price	9.20	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZKOP	earning growth 193.40, 268.40, 262.40, 
+X8	ANZKOP	Price	3.28	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZKOQ	earning growth 193.40, 268.40, 262.40, 
+X8	ANZKOQ	Price	3.99	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZKOR	earning growth 193.40, 268.40, 262.40, 
+X8	ANZKOR	Price	9.39	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZKOS	earning growth 193.40, 268.40, 262.40, 
+X8	ANZKOS	Price	1.43	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZKOT	earning growth 193.40, 268.40, 262.40, 
+X8	ANZKOT	Price	1.50	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZKOU	earning growth 193.40, 268.40, 262.40, 
+X8	ANZKOU	Price	1.50	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZKOV	earning growth 193.40, 268.40, 262.40, 
+X8	ANZKOV	Price	4.41	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZKOW	earning growth 193.40, 268.40, 262.40, 
+X8	ANZKOW	Price	2.44	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZKOX	earning growth 193.40, 268.40, 262.40, 
+X8	ANZKOX	Price	1.50	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZKOY	earning growth 193.40, 268.40, 262.40, 
+X8	ANZKOY	Price	1.51	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZKOZ	earning growth 193.40, 268.40, 262.40, 
+X8	ANZKOZ	Price	1.62	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZLOA	earning growth 193.40, 268.40, 262.40, 
+X8	ANZLOA	Price	0.73	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZLOB	earning growth 193.40, 268.40, 262.40, 
+X8	ANZLOB	Price	2.02	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZLOC	earning growth 193.40, 268.40, 262.40, 
+X8	ANZLOC	Price	0.57	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZLOD	earning growth 193.40, 268.40, 262.40, 
+X8	ANZLOD	Price	4.14	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZLOE	earning growth 193.40, 268.40, 262.40, 
+X8	ANZLOE	Price	3.90	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZLOL	earning growth 193.40, 268.40, 262.40, 
+X8	ANZLOL	Price	3.47	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZLOP	earning growth 193.40, 268.40, 262.40, 
+X8	ANZLOP	Price	6.08	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZLOQ	earning growth 193.40, 268.40, 262.40, 
+X8	ANZLOQ	Price	1.34	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZLOS	earning growth 193.40, 268.40, 262.40, 
+X8	ANZLOS	Price	0.85	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZLOT	earning growth 193.40, 268.40, 262.40, 
+X8	ANZLOT	Price	1.85	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZLOU	earning growth 193.40, 268.40, 262.40, 
+X8	ANZLOU	Price	3.70	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZLOV	earning growth 193.40, 268.40, 262.40, 
+X8	ANZLOV	Price	3.35	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZLOW	earning growth 193.40, 268.40, 262.40, 
+X8	ANZLOW	Price	0.68	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZMOP	earning growth 193.40, 268.40, 262.40, 
+X8	ANZMOP	Price	2.60	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZMOQ	earning growth 193.40, 268.40, 262.40, 
+X8	ANZMOQ	Price	1.63	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZMOT	earning growth 193.40, 268.40, 262.40, 
+X8	ANZMOT	Price	9.10	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZPA	earning growth 193.40, 268.40, 262.40, 
+X8	ANZPA	Price	100.60	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZQOJ	earning growth 193.40, 268.40, 262.40, 
+X8	ANZQOJ	Price	7.55	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZSMB	earning growth 193.40, 268.40, 262.40, 
+X8	ANZSMB	Price	15.59	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZSMY	earning growth 193.40, 268.40, 262.40, 
+X8	ANZSMY	Price	16.15	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZSO1	earning growth 193.40, 268.40, 262.40, 
+X8	ANZSO1	Price	12.15	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZSO2	earning growth 193.40, 268.40, 262.40, 
+X8	ANZSO2	Price	17.51	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZSOG	earning growth 193.40, 268.40, 262.40, 
+X8	ANZSOG	Price	17.88	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZSOH	earning growth 193.40, 268.40, 262.40, 
+X8	ANZSOH	Price	16.53	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZSS2	earning growth 193.40, 268.40, 262.40, 
+X8	ANZSS2	Price	2.49	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZSSA	earning growth 193.40, 268.40, 262.40, 
+X8	ANZSSA	Price	14.65	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZSSE	earning growth 193.40, 268.40, 262.40, 
+X8	ANZSSE	Price	12.15	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZSSL	earning growth 193.40, 268.40, 262.40, 
+X8	ANZSSL	Price	13.81	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZSSX	earning growth 193.40, 268.40, 262.40, 
+X8	ANZSSX	Price	5.45	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZSSZ	earning growth 193.40, 268.40, 262.40, 
+X8	ANZSSZ	Price	18.72	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZSWJ	earning growth 193.40, 268.40, 262.40, 
+X8	ANZSWJ	Price	25.73	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZSWK	earning growth 193.40, 268.40, 262.40, 
+X8	ANZSWK	Price	20.56	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZSWR	earning growth 193.40, 268.40, 262.40, 
+X8	ANZSWR	Price	16.56	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZSWT	earning growth 193.40, 268.40, 262.40, 
+X8	ANZSWT	Price	15.32	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZSWU	earning growth 193.40, 268.40, 262.40, 
+X8	ANZSWU	Price	14.50	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZSWV	earning growth 193.40, 268.40, 262.40, 
+X8	ANZSWV	Price	7.29	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZSWW	earning growth 193.40, 268.40, 262.40, 
+X8	ANZSWW	Price	17.42	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZWOA	earning growth 193.40, 268.40, 262.40, 
+X8	ANZWOA	Price	0.74	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	ANZWOB	earning growth 193.40, 268.40, 262.40, 
+X8	ANZWOB	Price	0.68	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X1	AOK	earning deficit -2.40, -4.70, -2.70, 
+X3	AOK	Close	0.03	aveearn	-1.888889	-0.0158823520069205	>15	-0.00105882346712803	-28.333335
+X4	AOK	assets	28351.00	liabilities	24863.00	1.14028878252825	>1.5	0.760192521685503
+X5	AOK	total debt	23803.00	NetCurrentAssets	3488	6.82425458715596	<1.1	6.20386780650542
+X6	AOK	divs	0.00
+X4	APE	assets	813494.00	liabilities	670796.00	1.21272935437898	>1.5	0.808486236252651
+X5	APE	total debt	769525.00	NetCurrentAssets	142698	5.39268244824735	<1.1	4.90243858931577
+X8	APE	Price	9.09	NetTangibleAssets	2.40	3.7875	<1.2	3.15625	2.88
+X1	API	earning deficit 10.60, 8.70, -22.70, 
+X4	API	assets	1128966.00	liabilities	845632.00	1.33505591084538	>1.5	0.89003727389692
+X8	API	Price	2.04	NetTangibleAssets	0.71	2.87323943661972	<1.2	2.3943661971831	0.852
+X4	APN	assets	123594.00	liabilities	114110.00	1.08311278590833	>1.5	0.722075190605556
+X5	APN	total debt	161309.00	NetCurrentAssets	9484	17.0085407001265	<1.1	15.4623097273878
+X7	APN	earning growth 12.50, 37.50, 37.20, 
+X8	APN	Price	2.78	NetTangibleAssets	-0.27	0	<1.2	0	-0.324
+X1	APO	earning deficit 29.70, 24.60, -7.00, 
+X5	APO	total debt	102677.00	NetCurrentAssets	44842	2.28975068016592	<1.1	2.08159152742356
+X8	APO	Price	5.70	NetTangibleAssets	0.08	71.25	<1.2	59.375	0.096
+X1	APX	earning deficit 10.50, 8.60, 0.00, 
+X8	APX	Price	2.65	NetTangibleAssets	0.21	12.6190476190476	<1.2	10.515873015873	0.252
+X3	AQG	Close	2.60	aveearn	-3.833333	-0.678260928544429	>15	-0.0452173952362952	-57.499995
+X6	AQG	divs	0.00
+X7	AQG	earning growth 0.90, 21.90, 27.60, 
+X1	AQS	earning deficit -8.30, -3.70, -1.60, 
+X3	AQS	Close	0.05	aveearn	-2.783333	-0.0179640740076735	>15	-0.0011976049338449	-41.749995
+X4	AQS	assets	7252.00	liabilities	5688.80	1.27478554352412	>1.5	0.849857029016078
+X5	AQS	total debt	26349.00	NetCurrentAssets	1563.2	16.8558085977482	<1.1	15.3234623615893
+X6	AQS	divs	0.00
+X7	AQS	earning growth -8.30, -3.70, -1.60, 
+X8	AQS	Price	0.05	NetTangibleAssets	-0.01	0	<1.2	0	-0.012
+X1	ARL	earning deficit 0.00, 
+X3	ARL	Close	0.52	aveearn	0.000000	-0.0179640740076735	>15	-0.0011976049338449	0
+X6	ARL	divs	0.00
+X7	ARL	earning growth 0.00, 
+X8	ARL	Price	0.52	NetTangibleAssets	0.23	2.26086956521739	<1.2	1.88405797101449	0.276
+X1	ATM	earning deficit 0.00, -1.20, -749.40, 
+X3	ATM	Close	0.86	aveearn	-27.460003	-0.031318277714682	>15	-0.0020878851809788	-411.900045
+X5	ATM	total debt	1018472.00	NetCurrentAssets	645543	1.57769815488666	<1.1	1.43427104989696
+X6	ATM	divs	0.00
+X1	ATS	earning deficit -3.70, 
+X3	ATS	Close	0.27	aveearn	-3.700000	-0.072972972972973	>15	-0.00486486486486487	-55.5
+X6	ATS	divs	0.00
+X7	ATS	earning growth -3.70, 
+X8	ATS	Price	0.27	NetTangibleAssets	0.20	1.35	<1.2	1.125	0.24
+X1	AVQ	earning deficit -6.60, -4.90, -8.60, 
+X3	AVQ	Close	0.16	aveearn	-21.400000	-0.00747663551401869	>15	-0.000498442367601246	-321
+X6	AVQ	divs	0.00
+X8	AVQ	Price	0.16	NetTangibleAssets	0.02	8	<1.2	6.66666666666667	0.024
+X5	AWC	total debt	127695.00	NetCurrentAssets	13820	9.23986975397974	<1.1	8.39988159452704
+X8	AWC	Price	1.79	NetTangibleAssets	0.96	1.86458333333333	<1.2	1.55381944444444	1.152
+X1	AXP	earning deficit -35.90, -5.30, 0.00, 
+X3	AXP	Close	0.86	aveearn	-13.733334	-0.0626213561834293	>15	-0.00417475707889529	-206.00001
+X6	AXP	divs	0.00
+X7	AXP	earning growth -35.90, -5.30, 0.00, 
+X8	AXP	Price	0.86	NetTangibleAssets	0.07	12.2857142857143	<1.2	10.2380952380952	0.084
+X7	BBL	earning growth 2.90, 18.90, 17.70, 
+X8	BBL	Price	0.42	NetTangibleAssets	0.19	2.21052631578947	<1.2	1.84210526315789	0.228
+X1	BDR	earning deficit 2.40, -4.70, 1.70, 
+X3	BDR	Close	0.29	aveearn	-1.633333	-0.177551056643073	>15	-0.0118367371095382	-24.499995
+X4	BDR	assets	120023.00	liabilities	108523.00	1.10596832007961	>1.5	0.73731221338641
+X5	BDR	total debt	61586.00	NetCurrentAssets	11500	5.35530434782609	<1.1	4.86845849802372
+X6	BDR	divs	0.00
+X8	BDR	Price	0.29	NetTangibleAssets	0.22	1.31818181818182	<1.2	1.09848484848485	0.264
+V!	BFG
+X4	BGG	assets	129189.00	liabilities	152653.00	0.846291916961999	>1.5	0.564194611307999
+X5	BGG	total debt	103245.00	NetCurrentAssets	-23464	0	<1.1	0
+X6	BGG	divs	0.00
+X4	BHL	assets	56465.00	liabilities	74132.00	0.761681864781741	>1.5	0.507787909854494
+X5	BHL	total debt		NetCurrentAssets	-17667	0	<1.1	0
+X6	BHL	divs	0.00
+X7	BHL	earning growth 0.30, 
+X1	BIQ	earning deficit -9.20, -8.60, 
+X3	BIQ	Close	0.10	aveearn	-8.900000	-0.0112359550561798	>15	-0.000749063670411985	-133.5
+X6	BIQ	divs	0.00
+X7	BIQ	earning growth -9.20, -8.60, 
+X5	BKW	total debt	299224.00	NetCurrentAssets	198670	1.50613580309055	<1.1	1.36921436644596
+X8	BKW	Price	14.68	NetTangibleAssets	10.96	1.33941605839416	<1.2	1.1161800486618	13.152
+X1	BLY	earning deficit -19.20, -35.80, -57.60, 
+X5	BLY	total debt	1015930.00	NetCurrentAssets	168418	6.03219370851097	<1.1	5.4838124622827
+X6	BLY	divs	0.00
+X8	BLY	Price	0.08	NetTangibleAssets	-0.71	0	<1.2	0	-0.852
+X1	BOC	earning deficit -0.40, -4.30, -20.60, 
+X3	BOC	Close	0.18	aveearn	-2.450000	-0.073469387755102	>15	-0.00489795918367347	-36.75
+X4	BOC	assets	8517.00	liabilities	6762.00	1.25953859804791	>1.5	0.83969239869861
+X6	BOC	divs	0.00
+X8	BOC	Price	0.18	NetTangibleAssets	0.12	1.5	<1.2	1.25	0.144
+X8	BOQ	Price	12.16	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X1	BRN	earning deficit -0.90, -11.50, 0.10, 
+X3	BRN	Close	0.27	aveearn	-3.550000	-0.076056338028169	>15	-0.00507042253521127	-53.25
+X6	BRN	divs	0.00
+X7	BRN	earning growth -0.90, -11.50, 0.10, 
+X8	BRN	Price	0.27	NetTangibleAssets	0.00	0	<1.2	0	0
+X1	BSX	earning deficit 0.00, 
+X3	BSX	Close	0.18	aveearn	0.000000	-0.076056338028169	>15	-0.00507042253521127	0
+X6	BSX	divs	0.00
+X7	BSX	earning growth 0.00, 
+X3	BTT	Close	10.00	aveearn	-71.220000	-0.1404099971918	>15	-0.00936066647945334	-1068.3
+X8	BTT	Price	10.00	NetTangibleAssets	0.77	12.987012987013	<1.2	10.8225108225108	0.924
+X3	CAA	Close	0.18	aveearn	-51.860000	-0.00347088314693405	>15	-0.000231392209795604	-777.9
+X1	CAQ	earning deficit -0.40, -0.40, -0.40, 
+X3	CAQ	Close	0.14	aveearn	-29.322222	-0.004774535845203	>15	-0.0003183023896802	-439.83333
+X4	CAQ	assets	3866.00	liabilities	55958.00	0.0690875299331642	>1.5	0.0460583532887761
+X5	CAQ	total debt		NetCurrentAssets	-52092	0	<1.1	0
+X6	CAQ	divs	0.00
+X7	CAQ	earning growth -0.40, -0.40, -0.40, 
+X8	CAQ	Price	0.14	NetTangibleAssets	0.09	1.55555555555556	<1.2	1.2962962962963	0.108
+X1	CBL	earning deficit 4.80, 2.50, 0.00, 
+X4	CBL	assets	841677.00	liabilities	598151.00	1.40713130965258	>1.5	0.938087539768386
+X6	CBL	divs	-999.00
+X8	CBL	Price	3.15	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X5	CCL	total debt	2381000.00	NetCurrentAssets	1261700	1.88713640326544	<1.1	1.71557854842312
+X7	CCL	earning growth 32.20, 51.50, 49.20, 
+X8	CCL	Price	10.82	NetTangibleAssets	1.12	9.66071428571428	<1.2	8.05059523809524	1.344
+X1	CDH	earning deficit 0.20, 0.00, -0.10, 
+X3	CDH	Close	0.01	aveearn	-0.050000	-0.2	>15	-0.0133333333333333	-0.75
+X6	CDH	divs	0.00
+X1	CHP	earning deficit 0.10, -12.50, -3.50, 
+X3	CHP	Close	0.02	aveearn	-29.980000	-0.00066711140760507	>15	-4.4474093840338e-005	-449.7
+X4	CHP	assets	370.90	liabilities	15850.90	0.0233993022478219	>1.5	0.0155995348318813
+X5	CHP	total debt		NetCurrentAssets	-15480	0	<1.1	0
+X6	CHP	divs	0.00
+X8	CHP	Price	0.02	NetTangibleAssets	0.00	0	<1.2	0	0
+X1	CIM	earning deficit 144.00, 149.10, -33.90, 
+X4	CIM	assets	5074800.00	liabilities	5799200.00	0.875086218788798	>1.5	0.583390812525866
+X5	CIM	total debt	1167200.00	NetCurrentAssets	-724400	0	<1.1	0
+X8	CIM	Price	35.93	NetTangibleAssets	6.77	5.30723781388479	<1.2	4.42269817823732	8.124
+X8	CLV	Price	0.50	NetTangibleAssets	0.17	2.94117647058824	<1.2	2.45098039215686	0.204
+X1	COB	earning deficit 0.00, 
+X3	COB	Close	0.25	aveearn	0.000000	0.314465408805031	>15	0.0209643605870021	0
+X4	COB	assets	8814.00	liabilities	0.00	0	>1.5	0
+X6	COB	divs	0.00
+X7	COB	earning growth 0.00, 
+X8	COB	Price	0.25	NetTangibleAssets	0.13	1.92307692307692	<1.2	1.6025641025641	0.156
+X1	COM	earning deficit -0.10, -0.30, -0.70, 
+X3	COM	Close	0.02	aveearn	-1.030000	-0.0194174757281553	>15	-0.00129449838187702	-15.45
+X4	COM	assets	3155.00	liabilities	4216.00	0.748339658444023	>1.5	0.498893105629348
+X5	COM	total debt	0.00	NetCurrentAssets	-1061	0	<1.1	0
+X6	COM	divs	0.00
+X8	COM	Price	0.02	NetTangibleAssets	0.00	0	<1.2	0	0
+X1	CPH	earning deficit -13.30, 
+X3	CPH	Close	0.76	aveearn	-13.300000	-0.0571428571428571	>15	-0.00380952380952381	-199.5
+X6	CPH	divs	0.00
+X7	CPH	earning growth -13.30, 
+X8	CPH	Price	0.76	NetTangibleAssets	0.06	12.6666666666667	<1.2	10.5555555555556	0.072
+X4	CTX	assets	2143655.00	liabilities	1502456.00	1.42676723977275	>1.5	0.951178159848497
+X8	CTX	Price	29.49	NetTangibleAssets	9.97	2.95787362086259	<1.2	2.46489468405216	11.964
+X1	CYB	earning deficit -22.40, 0.00, 
+X3	CYB	Close	4.52	aveearn	-11.200000	-0.403571428571429	>15	-0.0269047619047619	-168
+X6	CYB	divs	0.00
+X7	CYB	earning growth -22.40, 0.00, 
+X8	CYB	Price	4.52	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X7	CYC	earning growth 1.40, 4.70, 4.90, 
+X8	CYC	Price	0.81	NetTangibleAssets	0.18	4.5	<1.2	3.75	0.216
+X6	D2O	divs	0.00
+X7	D2O	earning growth 2.50, 
+X8	D2O	Price	1.07	NetTangibleAssets	0.29	3.68965517241379	<1.2	3.07471264367816	0.348
+X4	DDR	assets	287202.00	liabilities	246198.00	1.16654887529549	>1.5	0.777699250196996
+X5	DDR	total debt	114075.00	NetCurrentAssets	41004	2.78204565408253	<1.1	2.5291324128023
+X8	DDR	Price	2.29	NetTangibleAssets	0.27	8.48148148148148	<1.2	7.0679012345679	0.324
+X1	DFM	earning deficit 21.90, 22.60, 0.00, 
+X5	DLX	total debt	401583.00	NetCurrentAssets	199988	2.00803548212893	<1.1	1.82548680193539
+X8	DLX	Price	6.53	NetTangibleAssets	0.94	6.9468085106383	<1.2	5.78900709219858	1.128
+X6	DRA	divs	0.00
+X7	DRA	earning growth 1.00, 4.00, 8.70, 
+X1	DRO	earning deficit -7.00, 0.00, 
+X3	DRO	Close	0.38	aveearn	-3.500000	-0.108571428571429	>15	-0.00723809523809524	-52.5
+X6	DRO	divs	0.00
+X7	DRO	earning growth -7.00, 0.00, 
+X8	DRO	Price	0.38	NetTangibleAssets	0.02	19	<1.2	15.8333333333333	0.024
+X1	DSE	earning deficit -2.20, -0.60, -1.90, 
+X3	DSE	Close	0.07	aveearn	-1.288889	-0.0543103401456603	>15	-0.00362068934304402	-19.333335
+X6	DSE	divs	0.00
+X7	DSE	earning growth -2.20, -0.60, -1.90, 
+X8	DSE	Price	0.07	NetTangibleAssets	0.01	7	<1.2	5.83333333333333	0.012
+X1	DTS	earning deficit -2.90, 
+X3	DTS	Close	0.26	aveearn	-2.900000	-0.0896551724137931	>15	-0.00597701149425287	-43.5
+X6	DTS	divs	0.00
+X7	DTS	earning growth -2.90, 
+X8	DTS	Price	0.26	NetTangibleAssets	0.03	8.66666666666667	<1.2	7.22222222222222	0.036
+X1	DTZ	earning deficit -10.20, -4088.10, -4883.70, 
+X3	DTZ	Close	0.28	aveearn	-1425.790039	-0.000196382351076307	>15	-1.30921567384205e-005	-21386.850585
+X6	DTZ	divs	0.00
+X8	DTZ	Price	0.28	NetTangibleAssets	0.04	7	<1.2	5.83333333333333	0.048
+X1	DVN	earning deficit -46.80, -22.20, 4.80, 
+X4	DVN	assets	84307.00	liabilities	180549.00	0.4669480307285	>1.5	0.311298687152334
+X5	DVN	total debt		NetCurrentAssets	-96242	0	<1.1	0
+X6	DVN	divs	0.00
+X7	DVN	earning growth -46.80, -22.20, 4.80, 
+X1	DXF	earning deficit 3.10, 0.00, 
+X1	ECG	earning deficit -2.90, -1.80, -1.90, 
+X3	ECG	Close	0.10	aveearn	-2.200000	-0.0454545454545455	>15	-0.00303030303030303	-33
+X4	ECG	assets	7446.00	liabilities	7338.00	1.01471790678659	>1.5	0.676478604524394
+X5	ECG	total debt	3558.00	NetCurrentAssets	108	32.9444444444444	<1.1	29.9494949494949
+X6	ECG	divs	0.00
+X7	ECG	earning growth -2.90, -1.80, -1.90, 
+X8	ECG	Price	0.10	NetTangibleAssets	0.02	5	<1.2	4.16666666666667	0.024
+X1	ECX	earning deficit 20.60, 15.40, 0.00, 
+X4	ECX	assets	611064.00	liabilities	444184.00	1.37570016029393	>1.5	0.917133440195955
+X5	ECX	total debt	1415039.00	NetCurrentAssets	166880	8.47938039309684	<1.1	7.70852763008803
+X8	ECX	Price	3.91	NetTangibleAssets	0.24	16.2916666666667	<1.2	13.5763888888889	0.288
+X4	ELD	assets	562167.00	liabilities	496616.00	1.13199534449152	>1.5	0.754663562994346
+X5	ELD	total debt	121300.00	NetCurrentAssets	65551	1.85046757486537	<1.1	1.68224324987761
+X6	ELD	divs	0.00
+X8	ELD	Price	4.54	NetTangibleAssets	1.53	2.96732026143791	<1.2	2.47276688453159	1.836
+X1	EMC	earning deficit -5.20, -1.60, 0.00, 
+X6	EMC	divs	0.00
+X7	EMC	earning growth -5.20, -1.60, 0.00, 
+X8	EMC	Price	0.85	NetTangibleAssets	0.11	7.72727272727273	<1.2	6.43939393939394	0.132
+X1	EME	earning deficit -0.20, -0.50, -0.30, 
+X3	EME	Close	0.12	aveearn	-0.155556	-0.771426367353236	>15	-0.0514284244902157	-2.33334
+X6	EME	divs	0.00
+X1	ENC	earning deficit 3.30, 1.50, 0.00, 
+X4	ENC	assets	133534.00	liabilities	98362.00	1.35757711311279	>1.5	0.905051408741858
+X5	ENC	total debt	41171.00	NetCurrentAssets	35172	1.1705618105311	<1.1	1.06414710048282
+X6	ENC	divs	0.00
+X8	ENC	Price	0.25	NetTangibleAssets	0.19	1.31578947368421	<1.2	1.09649122807018	0.228
+X1	EOS	earning deficit -1.60, 5.30, -5.30, 
+X3	EOS	Close	2.59	aveearn	-4.660000	-0.555793991416309	>15	-0.0370529327610873	-69.9
+X4	EOS	assets	16619.00	liabilities	12730.00	1.30549882168107	>1.5	0.870332547787379
+X6	EOS	divs	0.00
+X8	EOS	Price	2.59	NetTangibleAssets	0.07	37	<1.2	30.8333333333333	0.084
+X1	ERA	earning deficit -9.10, -47.20, -29.80, 
+X6	ERA	divs	0.00
+X8	ERA	Price	0.72	NetTangibleAssets	0.38	1.89473684210526	<1.2	1.57894736842105	0.456
+X1	ESE	earning deficit 0.00, 
+X3	ESE	Close	0.48	aveearn	0.000000	0.222910216718266	>15	0.0148606811145511	0
+X6	ESE	divs	0.00
+X7	ESE	earning growth 0.00, 
+X8	ESE	Price	0.48	NetTangibleAssets	0.09	5.33333333333333	<1.2	4.44444444444444	0.108
+X1	ESH	earning deficit -0.30, -0.80, -5.70, 
+X3	ESH	Close	0.02	aveearn	-3.150000	-0.00634920634920635	>15	-0.000423280423280423	-47.25
+X6	ESH	divs	0.00
+X8	ESH	Price	0.02	NetTangibleAssets	0.00	0	<1.2	0	0
+X1	ESK	earning deficit -3.00, -7.40, 0.70, 
+X3	ESK	Close	0.22	aveearn	-3.216667	-0.0683937752959818	>15	-0.00455958501973212	-48.250005
+X4	ESK	assets	3691.00	liabilities	8249.00	0.447448175536429	>1.5	0.298298783690952
+X5	ESK	total debt	0.00	NetCurrentAssets	-4558	0	<1.1	0
+X6	ESK	divs	0.00
+X7	ESK	earning growth -3.00, -7.40, 0.70, 
+X8	ESK	Price	0.22	NetTangibleAssets	-0.04	0	<1.2	0	-0.048
+X1	ESV	earning deficit -6.00, -10.50, -6.70, 
+X3	ESV	Close	0.10	aveearn	-0.350000	-0.285714285714286	>15	-0.019047619047619	-5.25
+X6	ESV	divs	0.00
+X8	ESV	Price	0.10	NetTangibleAssets	0.04	2.5	<1.2	2.08333333333333	0.048
+X1	FDM	earning deficit -2.20, -7.90, -8.50, 
+X3	FDM	Close	0.10	aveearn	-2.566667	-0.0389610339011644	>15	-0.00259740226007763	-38.500005
+X6	FDM	divs	0.00
+X8	FDM	Price	0.10	NetTangibleAssets	0.05	2	<1.2	1.66666666666667	0.06
+X1	FDV	earning deficit -6.70, 0.00, 
+X3	FDV	Close	0.49	aveearn	-3.350000	-0.146268656716418	>15	-0.00975124378109453	-50.25
+X6	FDV	divs	0.00
+X7	FDV	earning growth -6.70, 0.00, 
+X8	FDV	Price	0.49	NetTangibleAssets	0.14	3.5	<1.2	2.91666666666667	0.168
+X1	FFG	earning deficit 14.20, -1.70, -1.20, 
+X6	FFG	divs	0.00
+X1	FGX	earning deficit 1.30, 7.60, -221.90, 
+X4	FGX	assets	75100.00	liabilities	326196.00	0.230229677862389	>1.5	0.15348645190826
+X5	FGX	total debt		NetCurrentAssets	-251096	0	<1.1	0
+X1	FLN	earning deficit -0.30, -0.60, -0.40, 
+X3	FLN	Close	0.92	aveearn	-0.275000	-3.34545454545455	>15	-0.223030303030303	-4.125
+X4	FLN	assets	40066.00	liabilities	35308.00	1.13475699558174	>1.5	0.756504663721159
+X6	FLN	divs	0.00
+X8	FLN	Price	0.92	NetTangibleAssets	0.02	46	<1.2	38.3333333333333	0.024
+X4	FSF	assets	0.00	liabilities	600434.00	0	>1.5	0
+X5	FSF	total debt		NetCurrentAssets	-600434	0	<1.1	0
+X1	FUN	earning deficit -2.50, -3.40, -1.50, 
+X3	FUN	Close	0.01	aveearn	-0.900000	-0.0111111111111111	>15	-0.000740740740740741	-13.5
+X4	FUN	assets	21975.00	liabilities	63968.00	0.343531140570285	>1.5	0.22902076038019
+X5	FUN	total debt	49080.00	NetCurrentAssets	-41993	0	<1.1	0
+X6	FUN	divs	0.00
+X7	FUN	earning growth -2.50, -3.40, -1.50, 
+X8	FUN	Price	0.01	NetTangibleAssets	-0.05	0	<1.2	0	-0.06
+X4	GEM	assets	61572.00	liabilities	114803.00	0.536327447888992	>1.5	0.357551631925995
+X5	GEM	total debt	410649.00	NetCurrentAssets	-53231	0	<1.1	0
+X8	GEM	Price	4.08	NetTangibleAssets	-1.02	0	<1.2	0	-1.224
+X1	GID	earning deficit -189.70, -10.20, -65.30, 
+X3	GID	Close	0.07	aveearn	-44.500000	-0.00157303370786517	>15	-0.000104868913857678	-667.5
+X6	GID	divs	0.00
+X7	GID	earning growth -189.70, -10.20, -65.30, 
+X4	GMA	assets	1031869.00	liabilities	774284.00	1.33267509079356	>1.5	0.888450060529039
+X8	GMA	Price	3.14	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X5	GNC	total debt	1179300.00	NetCurrentAssets	488000	2.41659836065574	<1.1	2.19690760059613
+X7	GNC	earning growth 21.50, 19.50, 41.40, 
+X8	GNC	Price	9.09	NetTangibleAssets	5.47	1.6617915904936	<1.2	1.38482632541133	6.564
+X4	GOW	assets	26452.00	liabilities	255639.00	0.103474039563603	>1.5	0.0689826930424022
+X5	GOW	total debt		NetCurrentAssets	-229187	0	<1.1	0
+X1	GPS	earning deficit -4.30, 5.00, -5.80, 
+X3	GPS	Close	0.02	aveearn	-4.375000	-0.00457142857142857	>15	-0.000304761904761905	-65.625
+X4	GPS	assets	789.30	liabilities	4720.00	0.167224576271186	>1.5	0.111483050847458
+X5	GPS	total debt		NetCurrentAssets	-3930.7	0	<1.1	0
+X6	GPS	divs	0.00
+X4	GPT	assets	224000.00	liabilities	11593900.00	0.0193205047481865	>1.5	0.012880336498791
+X5	GPT	total debt		NetCurrentAssets	-11369900	0	<1.1	0
+X1	GRR	earning deficit 8.00, 0.60, -4.30, 
+X8	GTK	Price	3.56	NetTangibleAssets	0.19	18.7368421052632	<1.2	15.6140350877193	0.228
+X1	HAV	earning deficit 0.60, -3.10, -6.90, 
+X3	HAV	Close	0.70	aveearn	-2.340000	-0.299145299145299	>15	-0.0199430199430199	-35.1
+X4	HAV	assets	2794.00	liabilities	8636.00	0.323529411764706	>1.5	0.215686274509804
+X5	HAV	total debt	3335.00	NetCurrentAssets	-5842	0	<1.1	0
+X6	HAV	divs	0.00
+X8	HAV	Price	0.70	NetTangibleAssets	0.24	2.91666666666667	<1.2	2.43055555555556	0.288
+X1	HCT	earning deficit 0.20, 0.00, -2.40, 
+X3	HCT	Close	0.16	aveearn	-2.533333	-0.0631579030470925	>15	-0.00421052686980617	-37.999995
+X6	HCT	divs	0.00
+X8	HCT	Price	0.16	NetTangibleAssets	0.02	8	<1.2	6.66666666666667	0.024
+X8	HGG	Price	3.81	NetTangibleAssets	0.63	6.04761904761905	<1.2	5.03968253968254	0.756
+X1	HGL	earning deficit 1.10, 0.60, -5.80, 
+X3	HGL	Close	0.03	aveearn	-0.080000	-0.375	>15	-0.025	-1.2
+X4	HGL	assets	581.00	liabilities	14068.00	0.041299402900199	>1.5	0.0275329352667994
+X5	HGL	total debt		NetCurrentAssets	-13487	0	<1.1	0
+X6	HGL	divs	0.00
+X8	HGL	Price	0.03	NetTangibleAssets	0.02	1.5	<1.2	1.25	0.024
+X1	HGO	earning deficit -52.70, -7.90, 2.70, 
+X3	HGO	Close	0.08	aveearn	-3.200000	-0.025	>15	-0.00166666666666667	-48
+X4	HGO	assets	11251.00	liabilities	45398.00	0.247830300894313	>1.5	0.165220200596208
+X5	HGO	total debt	13352.00	NetCurrentAssets	-34147	0	<1.1	0
+X6	HGO	divs	0.00
+X7	HGO	earning growth -52.70, -7.90, 2.70, 
+X1	HMO	earning deficit -2.60, 
+X3	HMO	Close	0.17	aveearn	-2.600000	-0.0653846153846154	>15	-0.00435897435897436	-39
+X6	HMO	divs	0.00
+X7	HMO	earning growth -2.60, 
+X8	HMO	Price	0.17	NetTangibleAssets	0.09	1.88888888888889	<1.2	1.57407407407407	0.108
+X1	HNG	earning deficit 5.60, 4.90, -21.30, 
+X8	HNG	Price	0.56	NetTangibleAssets	0.29	1.93103448275862	<1.2	1.60919540229885	0.348
+X1	HRN	earning deficit 0.00, 
+X3	HRN	Close	0.33	aveearn	0.000000	0.0901771336553945	>15	0.00601180891035964	0
+X6	HRN	divs	0.00
+X7	HRN	earning growth 0.00, 
+X1	HSK	earning deficit -1.00, -2.60, -3.10, 
+X3	HSK	Close	0.08	aveearn	-5.150000	-0.0155339805825243	>15	-0.00103559870550162	-77.25
+X6	HSK	divs	0.00
+X8	HSK	Price	0.08	NetTangibleAssets	0.05	1.6	<1.2	1.33333333333333	0.06
+X1	HTA	earning deficit -0.50, -1.40, -2.10, 
+X3	HTA	Close	0.08	aveearn	-7.360000	-0.0108695652173913	>15	-0.00072463768115942	-110.4
+X4	HTA	assets	53381.00	liabilities	137139.00	0.389247405916625	>1.5	0.259498270611083
+X5	HTA	total debt	136862.00	NetCurrentAssets	-83758	0	<1.1	0
+X6	HTA	divs	0.00
+X8	HTA	Price	0.08	NetTangibleAssets	0.01	8	<1.2	6.66666666666667	0.012
+X1	ICI	earning deficit -0.20, 0.00, 
+X3	ICI	Close	0.07	aveearn	-0.100000	-0.7	>15	-0.0466666666666667	-1.5
+X6	ICI	divs	0.00
+X7	ICI	earning growth -0.20, 0.00, 
+X8	ICI	Price	0.07	NetTangibleAssets	0.01	7	<1.2	5.83333333333333	0.012
+X1	ICQ	earning deficit -5.60, -5.40, -7.10, 
+X3	ICQ	Close	0.28	aveearn	-4.100000	-0.0682926829268293	>15	-0.00455284552845529	-61.5
+X6	ICQ	divs	0.00
+X8	ICQ	Price	0.28	NetTangibleAssets	0.08	3.5	<1.2	2.91666666666667	0.096
+X1	ILU	earning deficit -2.10, 12.80, 14.30, 
+X7	ILU	earning growth -2.10, 12.80, 14.30, 
+X8	ILU	Price	7.62	NetTangibleAssets	2.63	2.89733840304183	<1.2	2.41444866920152	3.156
+X4	INM	assets	1536909.00	liabilities	11573650.00	0.132793803164948	>1.5	0.0885292021099653
+X5	INM	total debt		NetCurrentAssets	-10036741	0	<1.1	0
+X7	INM	earning growth 57.00, 
+X8	INM	Price	45.86	NetTangibleAssets	-16.90	0	<1.2	0	-20.28
+X1	IOG	earning deficit -1.50, -2.10, -6.00, 
+X3	IOG	Close	0.04	aveearn	-2.114286	-0.0189189163623086	>15	-0.00126126109082057	-31.71429
+X4	IOG	assets	3638.00	liabilities	3737.00	0.973508161626974	>1.5	0.649005441084649
+X5	IOG	total debt	10735.00	NetCurrentAssets	-99	0	<1.1	0
+X6	IOG	divs	0.00
+X8	IOG	Price	0.04	NetTangibleAssets	0.01	4	<1.2	3.33333333333333	0.012
+X1	IOT	earning deficit -1.40, 0.00, -1.20, 
+X3	IOT	Close	0.03	aveearn	-1.185714	-0.0253012109159544	>15	-0.00168674739439696	-17.78571
+X6	IOT	divs	0.00
+X7	IOT	earning growth -1.40, 0.00, -1.20, 
+X8	IOT	Price	0.03	NetTangibleAssets	0.01	3	<1.2	2.5	0.012
+X4	IPL	assets	1141900.00	liabilities	1070200.00	1.06699682302373	>1.5	0.711331215349156
+X5	IPL	total debt	2289400.00	NetCurrentAssets	71700	31.9302649930265	<1.1	29.0275136300241
+X7	IPL	earning growth 20.10, 23.80, 21.70, 
+X8	IPL	Price	3.76	NetTangibleAssets	0.84	4.47619047619048	<1.2	3.73015873015873	1.008
+X4	IRE	assets	73054.00	liabilities	55148.00	1.32468992529194	>1.5	0.883126616861294
+X5	IRE	total debt	177805.00	NetCurrentAssets	17906	9.92991176142075	<1.1	9.0271925103825
+X8	IRE	Price	11.71	NetTangibleAssets	-0.94	0	<1.2	0	-1.128
+X4	IVC	assets	129322.00	liabilities	117921.00	1.09668337276651	>1.5	0.731122248511009
+X5	IVC	total debt	234455.00	NetCurrentAssets	11401	20.5644241733181	<1.1	18.6949310666528
+X8	IVC	Price	14.14	NetTangibleAssets	0.73	19.3698630136986	<1.2	16.1415525114155	0.876
+X1	IVO	earning deficit -2.60, -1.20, -3.00, 
+X3	IVO	Close	0.02	aveearn	-75.320000	-0.000265533722782793	>15	-1.77022481855196e-005	-1129.8
+X4	IVO	assets	2284.00	liabilities	9906.00	0.230567332929538	>1.5	0.153711555286358
+X5	IVO	total debt	7501.00	NetCurrentAssets	-7622	0	<1.1	0
+X6	IVO	divs	0.00
+X8	IVO	Price	0.02	NetTangibleAssets	-0.01	0	<1.2	0	-0.012
+X1	JCI	earning deficit 16.00, 0.00, 
+X6	JCI	divs	0.00
+X8	JCI	Price	0.81	NetTangibleAssets	0.34	2.38235294117647	<1.2	1.98529411764706	0.408
+X1	JHL	earning deficit -0.60, -1.60, 
+X3	JHL	Close	0.03	aveearn	-1.100000	-0.0272727272727273	>15	-0.00181818181818182	-16.5
+X4	JHL	assets	2880.00	liabilities	3960.00	0.727272727272727	>1.5	0.484848484848485
+X5	JHL	total debt	620.00	NetCurrentAssets	-1080	0	<1.1	0
+X6	JHL	divs	0.00
+X8	JHL	Price	0.03	NetTangibleAssets	-0.01	0	<1.2	0	-0.012
+X7	KMD	earning growth 15.70, 9.20, 19.00, 
+X8	KMD	Price	1.79	NetTangibleAssets	0.35	5.11428571428571	<1.2	4.26190476190476	0.42
+X1	KRS	earning deficit -0.60, -1.80, 0.10, 
+X4	KRS	assets	24387.00	liabilities	26355.00	0.925327262379055	>1.5	0.616884841586037
+X5	KRS	total debt	13318.00	NetCurrentAssets	-1968	0	<1.1	0
+X6	KRS	divs	0.00
+X7	KRS	earning growth -0.60, -1.80, 0.10, 
+X1	KSL	earning deficit 10.90, 5.90, 0.00, 
+X4	KSL	assets	202693.00	liabilities	352503.00	0.575010709128717	>1.5	0.383340472752478
+X5	KSL	total debt		NetCurrentAssets	-149810	0	<1.1	0
+X1	LAA	earning deficit -4.80, -5.80, -3.60, 
+X3	LAA	Close	0.16	aveearn	-4.733333	-0.0338028192818887	>15	-0.00225352128545925	-70.999995
+X6	LAA	divs	0.00
+X7	LAA	earning growth -4.80, -5.80, -3.60, 
+X8	LAA	Price	0.16	NetTangibleAssets	0.02	8	<1.2	6.66666666666667	0.024
+X1	LHB	earning deficit -0.30, -0.30, -0.20, 
+X3	LHB	Close	0.12	aveearn	-67.099999	-0.00178837558551976	>15	-0.00011922503903465	-1006.499985
+X4	LHB	assets	641.00	liabilities	21253.00	0.0301604479367619	>1.5	0.0201069652911746
+X5	LHB	total debt		NetCurrentAssets	-20612	0	<1.1	0
+X6	LHB	divs	0.00
+X7	LHB	earning growth -0.30, -0.30, -0.20, 
+X8	LHB	Price	0.12	NetTangibleAssets	0.00	0	<1.2	0	0
+X1	LSX	earning deficit 10.20, -31.40, -2.10, 
+X3	LSX	Close	0.38	aveearn	-6.400000	-0.059375	>15	-0.00395833333333333	-96
+X4	LSX	assets	13232.00	liabilities	28073.00	0.471342571153778	>1.5	0.314228380769185
+X5	LSX	total debt		NetCurrentAssets	-14841	0	<1.1	0
+X6	LSX	divs	0.00
+X8	LSX	Price	0.38	NetTangibleAssets	0.00	0	<1.2	0	0
+X1	MDL	earning deficit -34.20, -52.50, -80.50, 
+X3	MDL	Close	0.44	aveearn	-22.155556	-0.0198595783378219	>15	-0.00132397188918813	-332.33334
+X4	MDL	assets	7467.00	liabilities	21042.00	0.354861705161106	>1.5	0.236574470107404
+X5	MDL	total debt	19089.00	NetCurrentAssets	-13575	0	<1.1	0
+X6	MDL	divs	0.00
+X4	MFD	assets	2812.00	liabilities	2352.00	1.19557823129252	>1.5	0.797052154195011
+X5	MFD	total debt	7485.00	NetCurrentAssets	460	16.2717391304348	<1.1	14.7924901185771
+X6	MFD	divs	0.00
+X7	MFD	earning growth 0.70, 
+X8	MFD	Price	1.25	NetTangibleAssets	-0.21	0	<1.2	0	-0.252
+X1	MGL	earning deficit 0.00, 0.00, -0.10, 
+X3	MGL	Close	0.04	aveearn	-1.460000	-0.0273972602739726	>15	-0.00182648401826484	-21.9
+X6	MGL	divs	0.00
+X8	MGL	Price	0.04	NetTangibleAssets	0.03	1.33333333333333	<1.2	1.11111111111111	0.036
+X1	MIG	earning deficit -7.60, -7.90, -39.30, 
+X3	MIG	Close	0.04	aveearn	-6.855555	-0.00583468442744606	>15	-0.000388978961829738	-102.833325
+X4	MIG	assets	3181.00	liabilities	4719.00	0.674083492265311	>1.5	0.44938899484354
+X5	MIG	total debt	2062.00	NetCurrentAssets	-1538	0	<1.1	0
+X6	MIG	divs	0.00
+X8	MIG	Price	0.04	NetTangibleAssets	0.00	0	<1.2	0	0
+X1	MIH	earning deficit -0.50, -3.50, -1.60, 
+X3	MIH	Close	3.60	aveearn	-2.450000	-1.46938775510204	>15	-0.0979591836734694	-36.75
+X6	MIH	divs	0.00
+X8	MIH	Price	3.60	NetTangibleAssets	0.31	11.6129032258065	<1.2	9.67741935483871	0.372
+X4	MLB	assets	45858.00	liabilities	80013.00	0.573131866071763	>1.5	0.382087910714509
+X5	MLB	total debt	36628.00	NetCurrentAssets	-34155	0	<1.1	0
+X8	MLB	Price	2.27	NetTangibleAssets	-0.76	0	<1.2	0	-0.912
+X1	MMG	earning deficit -3.40, -26.60, 
+X3	MMG	Close	4.90	aveearn	-15.000000	-0.326666666666667	>15	-0.0217777777777778	-225
+X4	MMG	assets	2807490.00	liabilities	15243919.00	0.184171143916469	>1.5	0.122780762610979
+X5	MMG	total debt	14169707.00	NetCurrentAssets	-12436429	0	<1.1	0
+X6	MMG	divs	0.00
+X8	MMG	Price	4.90	NetTangibleAssets	0.07	70	<1.2	58.3333333333333	0.084
+X1	MQA	earning deficit 30.20, 16.50, -10.20, 
+X3	MQA	Close	5.12	aveearn	-9.187500	-0.557278911564626	>15	-0.0371519274376417	-137.8125
+X8	MQA	Price	5.12	NetTangibleAssets	2.02	2.53465346534653	<1.2	2.11221122112211	2.424
+X1	MQR	earning deficit 0.00, 
+X3	MQR	Close	0.22	aveearn	0.000000	-0.557278911564626	>15	-0.0371519274376417	0
+X4	MQR	assets	3115.00	liabilities	0.00	0	>1.5	0
+X6	MQR	divs	0.00
+X7	MQR	earning growth 0.00, 
+X3	MRC	Close	0.12	aveearn	-0.190000	-0.631578947368421	>15	-0.0421052631578947	-2.85
+X6	MRC	divs	0.00
+X7	MRC	earning growth 1.30, 2.60, 2.00, 
+X1	MSI	earning deficit -0.50, -0.60, 0.10, 
+X3	MSI	Close	0.01	aveearn	-0.940000	-0.0106382978723404	>15	-0.000709219858156028	-14.1
+X6	MSI	divs	0.00
+X7	MSI	earning growth -0.50, -0.60, 0.10, 
+X8	MSI	Price	0.01	NetTangibleAssets	0.00	0	<1.2	0	0
+X1	MUA	earning deficit 3.80, 1.40, 0.00, 
+X6	MUA	divs	0.00
+X8	MUA	Price	0.96	NetTangibleAssets	0.11	8.72727272727273	<1.2	7.27272727272727	0.132
+X1	MYO	earning deficit 9.80, -7.60, -999.00, 
+X3	MYO	Close	3.56	aveearn	-332.266667	-0.010714285703537	>15	-0.000714285713569136	-4984.000005
+X4	MYO	assets	96268.00	liabilities	91471.00	1.05244285073958	>1.5	0.701628567159719
+X5	MYO	total debt	435220.00	NetCurrentAssets	4797	90.7275380446112	<1.1	82.4795800405556
+X8	MYO	Price	3.56	NetTangibleAssets	-0.59	0	<1.2	0	-0.708
+X4	MYR	assets	479738.00	liabilities	520585.00	0.92153634853098	>1.5	0.61435756568732
+X5	MYR	total debt	147273.00	NetCurrentAssets	-40847	0	<1.1	0
+X7	MYR	earning growth 9.30, 12.40, 15.50, 
+X8	MYR	Price	1.22	NetTangibleAssets	0.25	4.88	<1.2	4.06666666666667	0.3
+X8	NAB	Price	33.34	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X1	NCL	earning deficit -1.60, -0.60, 0.00, 
+X3	NCL	Close	0.05	aveearn	-0.733333	-0.0681818491735678	>15	-0.00454545661157119	-10.999995
+X6	NCL	divs	0.00
+X7	NCL	earning growth -1.60, -0.60, 0.00, 
+X8	NCL	Price	0.05	NetTangibleAssets	0.03	1.66666666666667	<1.2	1.38888888888889	0.036
+X1	NEU	earning deficit -0.70, -0.80, -0.50, 
+X3	NEU	Close	0.07	aveearn	-1.960000	-0.0357142857142857	>15	-0.00238095238095238	-29.4
+X6	NEU	divs	0.00
+X7	NEU	earning growth -0.70, -0.80, -0.50, 
+X8	NEU	Price	0.07	NetTangibleAssets	0.00	0	<1.2	0	0
+X1	NGE	earning deficit 2.00, -51.20, -16.50, 
+X3	NGE	Close	0.42	aveearn	-16.920000	-0.024822695035461	>15	-0.0016548463356974	-253.8
+X6	NGE	divs	0.00
+X1	NHC	earning deficit -0.20, 1.90, 4.90, 
+X7	NHC	earning growth -0.20, 1.90, 4.90, 
+X1	NNW	earning deficit -0.10, 0.20, 0.10, 
+X3	NNW	Close	0.10	aveearn	-199.740000	-0.00050065084609993	>15	-3.33767230733287e-005	-2996.1
+X6	NNW	divs	0.00
+X7	NNW	earning growth -0.10, 0.20, 0.10, 
+X8	NNW	Price	0.10	NetTangibleAssets	0.05	2	<1.2	1.66666666666667	0.06
+X5	NUF	total debt	906878.00	NetCurrentAssets	750121	1.2089756186002	<1.1	1.099068744182
+X8	NUF	Price	9.70	NetTangibleAssets	2.53	3.83399209486166	<1.2	3.19499341238472	3.036
+X4	OGC	assets	260654.00	liabilities	332863.00	0.78306690740635	>1.5	0.522044604937567
+X5	OGC	total debt	448371.00	NetCurrentAssets	-72209	0	<1.1	0
+X6	OGC	divs	0.00
+X7	OGC	earning growth 31.00, 22.30, 43.90, 
+X8	OGC	Price	3.85	NetTangibleAssets	3.02	1.27483443708609	<1.2	1.06236203090508	3.624
+X1	OMH	earning deficit -5.40, -15.50, -8.20, 
+X6	OMH	divs	0.00
+X1	OML	earning deficit 16.00, 13.50, -20.40, 
+X4	OML	assets	96273.00	liabilities	70087.00	1.3736213563143	>1.5	0.915747570876197
+X5	OML	total debt	122404.00	NetCurrentAssets	26186	4.67440617123654	<1.1	4.24946015566958
+X8	OML	Price	4.62	NetTangibleAssets	-0.01	0	<1.2	0	-0.012
+X1	ONE	earning deficit -48.50, 0.00, 
+X3	ONE	Close	5.50	aveearn	-24.250000	-0.22680412371134	>15	-0.0151202749140893	-363.75
+X6	ONE	divs	0.00
+X7	ONE	earning growth -48.50, 0.00, 
+X8	ONE	Price	5.50	NetTangibleAssets	0.99	5.55555555555556	<1.2	4.62962962962963	1.188
+X3	OPG	Close	0.48	aveearn	-18.833334	-0.0254867247615319	>15	-0.00169911498410212	-282.50001
+X8	OPG	Price	0.48	NetTangibleAssets	0.31	1.54838709677419	<1.2	1.29032258064516	0.372
+X4	ORI	assets	1577900.00	liabilities	1590800.00	0.991890872516973	>1.5	0.661260581677982
+X5	ORI	total debt	1877400.00	NetCurrentAssets	-12900	0	<1.1	0
+X7	ORI	earning growth 104.50, 166.20, 163.40, 
+X8	ORI	Price	17.60	NetTangibleAssets	3.26	5.39877300613497	<1.2	4.49897750511248	3.912
+X7	ORL	earning growth 15.30, 6.30, 20.20, 
+X8	ORL	Price	1.52	NetTangibleAssets	0.85	1.78823529411765	<1.2	1.49019607843137	1.02
+X1	OSH	earning deficit 10.80, -3.50, 29.00, 
+X5	OSH	total debt	5631262.00	NetCurrentAssets	804590	6.99892118967424	<1.1	6.36265562697658
+X7	OSH	earning growth 10.80, -3.50, 29.00, 
+X8	OSH	Price	7.22	NetTangibleAssets	4.29	1.68298368298368	<1.2	1.4024864024864	5.148
+X1	OSP	earning deficit -8.60, -10.80, -9.60, 
+X3	OSP	Close	0.43	aveearn	-8.520000	-0.0504694835680751	>15	-0.00336463223787167	-127.8
+X6	OSP	divs	0.00
+X8	OSP	Price	0.43	NetTangibleAssets	0.12	3.58333333333333	<1.2	2.98611111111111	0.144
+X1	OTI	earning deficit -0.60, -0.30, 0.40, 
+X3	OTI	Close	0.01	aveearn	-0.010000	-1	>15	-0.0666666666666667	-0.15
+X7	OTI	earning growth -0.60, -0.30, 0.40, 
+V!	OZL
+X1	PEP	earning deficit 35.00, 2.60, 0.00, 
+X4	PEP	assets	1004053.00	liabilities	7308381.00	0.137383778979229	>1.5	0.091589185986153
+X5	PEP	total debt		NetCurrentAssets	-6304328	0	<1.1	0
+X1	PEZ	earning deficit -0.80, 1.50, 0.00, 
+X6	PEZ	divs	0.00
+X7	PEZ	earning growth -0.80, 1.50, 0.00, 
+X1	PGI	earning deficit -8.60, 40.80, -49.60, 
+X3	PGI	Close	0.06	aveearn	-12.255556	-0.004895738716383	>15	-0.0003263825810922	-183.83334
+X4	PGI	assets	15876.00	liabilities	27000.00	0.588	>1.5	0.392
+X5	PGI	total debt	42573.00	NetCurrentAssets	-11124	0	<1.1	0
+X6	PGI	divs	0.00
+X1	PGY	earning deficit -0.20, -0.10, -3.10, 
+X3	PGY	Close	0.00	aveearn	-1.260000	0	>15	0	-18.9
+X6	PGY	divs	0.00
+X8	PGY	Price	0.00	NetTangibleAssets	0.00	0	<1.2	0	0
+X8	PMV	Price	14.32	NetTangibleAssets	3.08	4.64935064935065	<1.2	3.87445887445887	3.696
+X1	POH	earning deficit -0.80, -0.90, -0.80, 
+X3	POH	Close	0.02	aveearn	-0.710000	-0.028169014084507	>15	-0.00187793427230047	-10.65
+X6	POH	divs	0.00
+X7	POH	earning growth -0.80, -0.90, -0.80, 
+X8	POH	Price	0.02	NetTangibleAssets	0.01	2	<1.2	1.66666666666667	0.012
+X1	PSA	earning deficit -7.00, -2.40, 1.00, 
+X4	PSA	assets	24620.00	liabilities	17905.00	1.37503490645071	>1.5	0.916689937633808
+X6	PSA	divs	0.00
+X7	PSA	earning growth -7.00, -2.40, 1.00, 
+X8	PSA	Price	0.15	NetTangibleAssets	0.09	1.66666666666667	<1.2	1.38888888888889	0.108
+X8	QBE	Price	12.89	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X1	RAN	earning deficit -12.00, 0.00, 
+X3	RAN	Close	1.15	aveearn	-6.000000	-0.191666666666667	>15	-0.0127777777777778	-90
+X6	RAN	divs	0.00
+X7	RAN	earning growth -12.00, 0.00, 
+X8	RAN	Price	1.15	NetTangibleAssets	0.34	3.38235294117647	<1.2	2.81862745098039	0.408
+X4	RCT	assets	7084.00	liabilities	4999.00	1.41708341668334	>1.5	0.944722277788891
+X5	RCT	total debt	92251.00	NetCurrentAssets	2085	44.2450839328537	<1.1	40.2228035753216
+X7	RCT	earning growth 23.90, 30.00, 24.20, 
+X8	RCT	Price	3.51	NetTangibleAssets	0.24	14.625	<1.2	12.1875	0.288
+X4	RHL	assets	501411.00	liabilities	431205.00	1.16281351097506	>1.5	0.775209007316706
+X7	RHL	earning growth 5.40, 17.70, 30.00, 
+X8	RHL	Price	2.82	NetTangibleAssets	0.69	4.08695652173913	<1.2	3.40579710144928	0.828
+X1	RHS	earning deficit -2.80, -3.00, -13.70, 
+X3	RHS	Close	0.08	aveearn	-808.870020	-9.8903406013243e-005	>15	-6.59356040088287e-006	-12133.0503
+X6	RHS	divs	0.00
+X8	RHS	Price	0.08	NetTangibleAssets	0.01	8	<1.2	6.66666666666667	0.012
+X5	RIO	total debt	24694584.00	NetCurrentAssets	7910449	3.12176767715714	<1.1	2.8379706155974
+X7	RIO	earning growth 389.70, 414.60, 619.00, 
+X8	RIO	Price	60.46	NetTangibleAssets	26.93	2.24507983661344	<1.2	1.87089986384454	32.316
+X4	RKN	assets	18367.00	liabilities	23129.00	0.794111288858143	>1.5	0.529407525905429
+X5	RKN	total debt	52554.00	NetCurrentAssets	-4762	0	<1.1	0
+X7	RKN	earning growth 9.60, 13.00, 14.10, 
+X8	RKN	Price	1.70	NetTangibleAssets	-0.52	0	<1.2	0	-0.624
+X1	RNY	earning deficit -19.20, -25.10, -4.30, 
+X3	RNY	Close	0.04	aveearn	-9.650000	-0.00414507772020725	>15	-0.000276338514680484	-144.75
+X4	RNY	assets	103.00	liabilities	51099.00	0.00201569502338598	>1.5	0.00134379668225732
+X5	RNY	total debt		NetCurrentAssets	-50996	0	<1.1	0
+X6	RNY	divs	0.00
+X7	RNY	earning growth -19.20, -25.10, -4.30, 
+X1	RVA	earning deficit -17.80, -32.60, -18.60, 
+X3	RVA	Close	0.95	aveearn	-23.942857	-0.0396778045326838	>15	-0.00264518696884559	-359.142855
+X4	RVA	assets	9876.00	liabilities	136553.00	0.0723235666737457	>1.5	0.0482157111158305
+X5	RVA	total debt	132475.00	NetCurrentAssets	-126677	0	<1.1	0
+X6	RVA	divs	0.00
+X8	RVA	Price	0.95	NetTangibleAssets	-0.29	0	<1.2	0	-0.348
+X6	SBB	divs	0.00
+X7	SBB	earning growth 0.10, 1.10, 1.80, 
+X4	SCG	assets	793100.00	liabilities	33192100.00	0.0238942398944327	>1.5	0.0159294932629551
+X5	SCG	total debt		NetCurrentAssets	-32399000	0	<1.1	0
+X1	SDA	earning deficit 15.20, 9.00, -8.10, 
+X8	SDA	Price	3.49	NetTangibleAssets	0.69	5.05797101449275	<1.2	4.21497584541063	0.828
+X1	SE1	earning deficit 0.00, 
+X3	SE1	Close	0.36	aveearn	0.000000	0.867080745341615	>15	0.0578053830227743	0
+X6	SE1	divs	0.00
+X7	SE1	earning growth 0.00, 
+X8	SE1	Price	0.36	NetTangibleAssets	0.12	3	<1.2	2.5	0.144
+X1	SEH	earning deficit -0.50, -1.00, 0.00, 
+X3	SEH	Close	0.10	aveearn	-1.000000	-0.1	>15	-0.00666666666666667	-15
+X6	SEH	divs	0.00
+X7	SEH	earning growth -0.50, -1.00, 0.00, 
+X1	SFI	earning deficit -1.00, -1.00, -0.30, 
+X3	SFI	Close	0.09	aveearn	-2.277778	-0.0395121912671033	>15	-0.00263414608447355	-34.16667
+X4	SFI	assets	7210.00	liabilities	6876.10	1.04855950320676	>1.5	0.699039668804506
+X5	SFI	total debt	6003.00	NetCurrentAssets	333.9	17.978436657682	<1.1	16.3440333251654
+X6	SFI	divs	0.00
+X7	SFI	earning growth -1.00, -1.00, -0.30, 
+X8	SFI	Price	0.09	NetTangibleAssets	0.00	0	<1.2	0	0
+X1	SGU	earning deficit -0.60, -1.80, -11.10, 
+X3	SGU	Close	0.05	aveearn	-7.722222	-0.00647482033021066	>15	-0.00043165468868071	-115.83333
+X4	SGU	assets	6103.00	liabilities	15018.00	0.406379011852444	>1.5	0.270919341234962
+X5	SGU	total debt	4149.00	NetCurrentAssets	-8915	0	<1.1	0
+X6	SGU	divs	0.00
+X8	SGU	Price	0.05	NetTangibleAssets	-0.03	0	<1.2	0	-0.036
+X1	SHM	earning deficit 13.70, 8.90, 0.00, 
+X8	SHM	Price	1.30	NetTangibleAssets	0.56	2.32142857142857	<1.2	1.93452380952381	0.672
+X3	SIE	Close	0.03	aveearn	-1.190000	-0.0252100840336134	>15	-0.00168067226890756	-17.85
+X5	SIE	total debt	89248.00	NetCurrentAssets	13120	6.80243902439024	<1.1	6.1840354767184
+X6	SIE	divs	0.00
+X7	SIE	earning growth 0.50, 0.30, 0.60, 
+X8	SIE	Price	0.03	NetTangibleAssets	-0.15	0	<1.2	0	-0.18
+X1	SIQ	earning deficit 29.40, 19.80, -1.10, 
+X5	SIQ	total debt	150118.00	NetCurrentAssets	51198	2.93210672291886	<1.1	2.66555156628988
+X8	SIQ	Price	6.60	NetTangibleAssets	-0.77	0	<1.2	0	-0.924
+X4	SKI	assets	111651.00	liabilities	3412909.00	0.0327143208330489	>1.5	0.0218095472220326
+X5	SKI	total debt		NetCurrentAssets	-3301258	0	<1.1	0
+X7	SKI	earning growth 4.80, 5.90, 9.00, 
+X4	SNZ	assets	23106.00	liabilities	1618496.00	0.014276216932263	>1.5	0.00951747795484203
+X5	SNZ	total debt		NetCurrentAssets	-1595390	0	<1.1	0
+X7	SNZ	earning growth 0.90, 32.40, 10.80, 
+X8	SNZ	Price	5.00	NetTangibleAssets	2.36	2.11864406779661	<1.2	1.76553672316384	2.832
+X8	SOL	Price	18.00	NetTangibleAssets	12.44	1.44694533762058	<1.2	1.20578778135048	14.928
+X1	SPY	earning deficit 3598.30, -91.40, 
+X4	SPY	assets	1522488.00	liabilities	258417392.00	0.00589158488218161	>1.5	0.00392772325478774
+X5	SPY	total debt		NetCurrentAssets	-256894904	0	<1.1	0
+X8	SPY	Price	307.15	NetTangibleAssets	2.10	146.261904761905	<1.2	121.884920634921	2.52
+X1	SSL	earning deficit 21.60, -2.80, 10.00, 
+X4	SSL	assets	9091.00	liabilities	55906.00	0.162612241977605	>1.5	0.108408161318404
+X5	SSL	total debt		NetCurrentAssets	-46815	0	<1.1	0
+X6	SSL	divs	0.00
+X4	SST	assets	92878.00	liabilities	80382.00	1.15545768953248	>1.5	0.770305126354988
+X5	SST	total debt	218753.00	NetCurrentAssets	12496	17.5058418693982	<1.1	15.9144016994529
+X8	SST	Price	22.00	NetTangibleAssets	10.56	2.08333333333333	<1.2	1.73611111111111	12.672
+X1	STO	earning deficit -76.80, -472.80, 47.50, 
+X3	STO	Close	3.80	aveearn	-15.949998	-0.238244543980507	>15	-0.0158829695987005	-239.24997
+X5	STO	total debt	7240188.00	NetCurrentAssets	1926479	3.75824911665271	<1.1	3.41659010604792
+X6	STO	divs	0.00
+X7	STO	earning growth -76.80, -472.80, 47.50, 
+X1	SVH	earning deficit -4.20, 0.00, 
+X3	SVH	Close	0.22	aveearn	-2.100000	-0.104761904761905	>15	-0.00698412698412698	-31.5
+X5	SVH	total debt	33865.00	NetCurrentAssets	26057	1.2996507656292	<1.1	1.18150069602654
+X6	SVH	divs	0.00
+X7	SVH	earning growth -4.20, 0.00, 
+X4	SYD	assets	625700.00	liabilities	706200.00	0.886009629000283	>1.5	0.590673086000189
+X5	SYD	total debt	8625900.00	NetCurrentAssets	-80500	0	<1.1	0
+X8	SYD	Price	6.77	NetTangibleAssets	-2.84	0	<1.2	0	-3.408
+X1	TAP	earning deficit -5.60, -3.60, -9.10, 
+X3	TAP	Close	0.08	aveearn	-4.780000	-0.0167364016736402	>15	-0.00111576011157601	-71.7
+X4	TAP	assets	30084.00	liabilities	33100.00	0.908882175226586	>1.5	0.605921450151057
+X5	TAP	total debt	12264.00	NetCurrentAssets	-3016	0	<1.1	0
+X6	TAP	divs	0.00
+X6	TCH	divs	0.00
+X8	TCH	Price	1.28	NetTangibleAssets	0.52	2.46153846153846	<1.2	2.05128205128205	0.624
+X1	TDL	earning deficit -2.10, -8.50, -3.30, 
+X3	TDL	Close	0.17	aveearn	-19.711111	-0.0086245772752231	>15	-0.000574971818348206	-295.666665
+X6	TDL	divs	0.00
+X8	TDL	Price	0.17	NetTangibleAssets	0.09	1.88888888888889	<1.2	1.57407407407407	0.108
+X1	TEN	earning deficit -9.40, -18.90, -43.10, 
+X6	TEN	divs	0.00
+X8	TEN	Price	0.57	NetTangibleAssets	0.10	5.7	<1.2	4.75	0.12
+X1	TFL	earning deficit -2.00, -3.00, 13.60, 
+X6	TFL	divs	0.00
+X7	TFL	earning growth -2.00, -3.00, 13.60, 
+X6	TGZ	divs	0.00
+X1	THX	earning deficit -1.60, -1.20, -1.10, 
+X3	THX	Close	0.06	aveearn	-2.580000	-0.0232558139534884	>15	-0.00155038759689922	-38.7
+X6	THX	divs	0.00
+X7	THX	earning growth -1.60, -1.20, -1.10, 
+X8	THX	Price	0.06	NetTangibleAssets	0.01	6	<1.2	5	0.012
+V!	TMM
+X1	TMT	earning deficit 0.00, 
+X3	TMT	Close	0.28	aveearn	0.000000	0.0432326220396124	>15	0.00288217480264083	0
+X4	TMT	assets	3598.00	liabilities	0.00	0	>1.5	0
+X6	TMT	divs	0.00
+X7	TMT	earning growth 0.00, 
+X8	TMT	Price	0.28	NetTangibleAssets	0.19	1.47368421052632	<1.2	1.2280701754386	0.228
+X8	TNE	Price	5.13	NetTangibleAssets	0.29	17.6896551724138	<1.2	14.7413793103448	0.348
+X1	TNK	earning deficit 13.30, 12.20, -20.90, 
+X4	TNK	assets	4911.00	liabilities	9488.00	0.517601180438449	>1.5	0.345067453625632
+X5	TNK	total debt	10337.00	NetCurrentAssets	-4577	0	<1.1	0
+X8	TNK	Price	2.29	NetTangibleAssets	-0.24	0	<1.2	0	-0.288
+X1	TPE	earning deficit -27.00, -30.30, 
+X3	TPE	Close	2.24	aveearn	-28.650000	-0.0781849912739965	>15	-0.00521233275159977	-429.75
+X5	TPE	total debt	28073.00	NetCurrentAssets	7727	3.63310469781286	<1.1	3.30282245255715
+X6	TPE	divs	0.00
+X8	TPE	Price	2.24	NetTangibleAssets	0.17	13.1764705882353	<1.2	10.9803921568627	0.204
+X4	TPM	assets	358600.00	liabilities	513900.00	0.697801128624246	>1.5	0.465200752416164
+X5	TPM	total debt	1377500.00	NetCurrentAssets	-155300	0	<1.1	0
+X8	TPM	Price	6.97	NetTangibleAssets	-0.84	0	<1.2	0	-1.008
+X1	TPP	earning deficit 2.70, 3.40, -0.80, 
+X3	TPP	Close	0.20	aveearn	-18.010000	-0.0111049416990561	>15	-0.000740329446603739	-270.15
+X6	TPP	divs	0.00
+X8	TPP	Price	0.20	NetTangibleAssets	0.11	1.81818181818182	<1.2	1.51515151515152	0.132
+X1	TTC	earning deficit 7.40, 14.50, 0.00, 
+X8	TTC	Price	0.44	NetTangibleAssets	0.17	2.58823529411765	<1.2	2.15686274509804	0.204
+X4	TWR	assets	465052.00	liabilities	330389.00	1.40758923571911	>1.5	0.938392823812738
+X6	TWR	divs	-999.00
+X7	TWR	earning growth 7.60, 14.50, 12.90, 
+X8	TWR	Price	1.13	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X1	TZN	earning deficit -0.20, -0.40, -0.60, 
+X3	TZN	Close	0.20	aveearn	-7.500000	-0.0266666666666667	>15	-0.00177777777777778	-112.5
+X4	TZN	assets	1218.00	liabilities	15300.00	0.0796078431372549	>1.5	0.0530718954248366
+X5	TZN	total debt	11466.00	NetCurrentAssets	-14082	0	<1.1	0
+X6	TZN	divs	0.00
+X8	TZN	Price	0.20	NetTangibleAssets	0.02	10	<1.2	8.33333333333333	0.024
+X1	UBI	earning deficit 0.70, -3.70, -5.30, 
+X3	UBI	Close	0.41	aveearn	-4.650000	-0.0881720430107527	>15	-0.00587813620071685	-69.75
+X6	UBI	divs	0.00
+X8	UBI	Price	0.41	NetTangibleAssets	0.08	5.125	<1.2	4.27083333333333	0.096
+X4	UOS	assets	1011322.00	liabilities	1097543.00	0.921441802280184	>1.5	0.614294534853456
+X5	UOS	total debt		NetCurrentAssets	-86221	0	<1.1	0
+X7	UOS	earning growth 2.30, 7.50, 7.70, 
+X1	UPD	earning deficit -2.50, -2.00, 
+X3	UPD	Close	0.68	aveearn	-2.250000	-0.302222222222222	>15	-0.0201481481481481	-33.75
+X6	UPD	divs	0.00
+X7	UPD	earning growth -2.50, -2.00, 
+X8	UPD	Price	0.68	NetTangibleAssets	0.09	7.55555555555556	<1.2	6.2962962962963	0.108
+X1	URF	earning deficit -19.30, -14.60, -1.50, 
+X3	URF	Close	1.93	aveearn	-6.580000	-0.293313069908815	>15	-0.0195542046605876	-98.7
+X4	URF	assets	148375.00	liabilities	1097924.00	0.135141412338195	>1.5	0.0900942748921297
+X5	URF	total debt		NetCurrentAssets	-949549	0	<1.1	0
+X7	URF	earning growth -19.30, -14.60, -1.50, 
+X1	URI	earning deficit -515.90, -7383.50, 
+X3	URI	Close	2.15	aveearn	-3949.700012	-0.000544345138483393	>15	-3.62896758988929e-005	-59245.50018
+X4	URI	assets	5405.00	liabilities	11253.00	0.480316360081756	>1.5	0.320210906721171
+X5	URI	total debt	7506.00	NetCurrentAssets	-5848	0	<1.1	0
+X6	URI	divs	0.00
+X1	USR	earning deficit -8.90, -12.00, 
+X3	USR	Close	0.46	aveearn	-10.450000	-0.0440191387559809	>15	-0.00293460925039872	-156.75
+X1	VII	earning deficit 6.00, 6.90, -0.20, 
+X4	VII	assets	152927.00	liabilities	118818.00	1.28706929926442	>1.5	0.858046199509614
+X5	VII	total debt	86868.00	NetCurrentAssets	34109	2.54677651059838	<1.1	2.31525137327125
+X1	VMT	earning deficit -1.10, 5.60, 0.70, 
+X3	VMT	Close	0.07	aveearn	-7.255555	-0.00964778021805362	>15	-0.000643185347870241	-108.833325
+X6	VMT	divs	0.00
+X7	VMT	earning growth -1.10, 5.60, 0.70, 
+X7	VSC	earning growth 5.90, 7.70, 12.80, 
+X8	VSC	Price	1.10	NetTangibleAssets	0.41	2.68292682926829	<1.2	2.23577235772358	0.492
+X1	VVR	earning deficit 0.20, 0.00, 
+X3	VVR	Close	2.38	aveearn	0.100000	23.8	>15	1.58666666666667	1.5
+X4	VVR	assets	56135.00	liabilities	2117193.00	0.0265138794620991	>1.5	0.0176759196413994
+X5	VVR	total debt		NetCurrentAssets	-2061058	0	<1.1	0
+X8	VVR	Price	2.38	NetTangibleAssets	0.02	119	<1.2	99.1666666666667	0.024
+X7	WBC	earning growth 224.20, 252.10, 243.30, 
+X8	WBC	Price	35.06	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X4	WFD	assets	853372.00	liabilities	25080156.00	0.0340257851665675	>1.5	0.0226838567777117
+X5	WFD	total debt		NetCurrentAssets	-24226784	0	<1.1	0
+X8	WFD	Price	8.88	NetTangibleAssets	6.26	1.4185303514377	<1.2	1.18210862619808	7.512
+X1	WGF	earning deficit 0.00, 
+X3	WGF	Close	1.03	aveearn	0.000000	0.176998206099263	>15	0.0117998804066175	0
+X4	WGF	assets	147010.00	liabilities	0.00	0	>1.5	0
+X6	WGF	divs	0.00
+X7	WGF	earning growth 0.00, 
+X8	WGF	Price	1.03	NetTangibleAssets	-999.00	0	<1.2	0	-1198.8
+X1	WHA	earning deficit 0.00, 
+X3	WHA	Close	0.34	aveearn	0.000000	0.176998206099263	>15	0.0117998804066175	0
+X6	WHA	divs	0.00
+X7	WHA	earning growth 0.00, 
+X8	WHA	Price	0.34	NetTangibleAssets	0.17	2	<1.2	1.66666666666667	0.204
+V!	WMC
+X4	WPL	assets	1243781.00	liabilities	1330846.00	0.934579207511613	>1.5	0.623052805007742
+X5	WPL	total debt	6872582.00	NetCurrentAssets	-87065	0	<1.1	0
+X7	WPL	earning growth 143.70, 4.30, 357.70, 
+X8	WPL	Price	32.08	NetTangibleAssets	24.34	1.31799506984388	<1.2	1.0983292248699	29.208
+X4	WPP	assets	737165.00	liabilities	778498.00	0.946906735791229	>1.5	0.631271157194153
+X5	WPP	total debt	357402.00	NetCurrentAssets	-41333	0	<1.1	0
+X7	WPP	earning growth 8.20, 8.10, 11.60, 
+X8	WPP	Price	1.15	NetTangibleAssets	-0.48	0	<1.2	0	-0.576
+X1	XPD	earning deficit 3.20, 7.10, 0.00, 
+X6	XPD	divs	0.00
+X1	YAL	earning deficit -22.80, -30.10, -41.00, 
+X3	YAL	Close	0.40	aveearn	-24.140000	-0.0165700082850041	>15	-0.00110466721900028	-362.1
+X4	YAL	assets	738800.00	liabilities	497900.00	1.48383209479815	>1.5	0.989221396532102
+X5	YAL	total debt	4950900.00	NetCurrentAssets	240900	20.5516811955168	<1.1	18.6833465413789
+X6	YAL	divs	0.00
+X1	YPB	earning deficit -7.00, -5.40, -4.40, 
+X3	YPB	Close	0.14	aveearn	-309.220004	-0.00045275208003684	>15	-3.0183472002456e-005	-4638.30006
+X6	YPB	divs	0.00
+X7	YPB	earning growth -7.00, -5.40, -4.40, 
+X8	YPB	Price	0.14	NetTangibleAssets	0.01	14	<1.2	11.6666666666667	0.012

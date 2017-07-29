@@ -1,0 +1,9 @@
+sequence:
+- cooldown.pl - downloads stock data from cooltrader.com.au, also calls `perl stocks2db.pl $bufferdir`;
+- stocks2db.pl - loads stock data from a buffer folder into the database;
+- updatevolumes.pl - updates volumes for the XAO 
+- weekly.pl - calculates weekly data based on daily data
+- averages.pl - calculates Nday and Nwk price and volume averages, 200 days and 52 Weeks RS
+- rsi.pl - calculates RSI for daily and weekly figures
+
+
