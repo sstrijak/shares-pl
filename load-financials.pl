@@ -3,6 +3,7 @@
 # Use section
 use Date::Calc qw(Today_and_Now);
 use Date::Calc qw(Add_Delta_Days);
+use Date::Calc qw(Days_in_Month);
 use File::Copy;
 use File::Basename;
 use DBI;
@@ -17,7 +18,7 @@ my ($pname, $mypath, $type) = fileparse($0,qr{\..*});
 
 # File and directories
 $logfile = "$mypath/$pname.log";
-$htmldir = "$mypath/html";
+$htmldir = "../html";
 
 # SMTP
 my $smtpserver = 'mail.7r.com.au';
@@ -56,25 +57,6 @@ my $epsyear;
 my %findates;
 
 my %sales;
-my %roe  ;
-my %margin;
-my %cashflow;
-my %dividends;
-my %bookvalue;
-my %shares;
-my %pe;
-my %relpe;
-my %de;
-my %cash;
-my %receivables;
-my %inventory;
-my %otherassets;
-my %debt;
-my %payable;
-my %otherdebt;
-my %totalassets;
-my %totalliabilities;
-
 my %salesg;
 
 my $filecount = 0;
@@ -108,7 +90,7 @@ if ($keepgoing)
 	}
 }
 
-%fields = (
+%histfields = (
 	"sales" => "FinancialsView1_ctl00_ctl00_ctl01",
 	"cashflow" => "FinancialsView1_ctl00_ctl00_ctl02",
 	"earn" => "FinancialsView1_ctl00_ctl00_ctl03",
@@ -126,7 +108,10 @@ if ($keepgoing)
 	"de" => "FinancialsView1_ctl00_ctl00_ctl16",
 	"nta" => "FinancialsView1_ctl00_ctl00_ctl17",
 	"cap" => "FinancialsView1_ctl00_ctl00_ctl18",
-	"dyield" => "FinancialsView1_ctl00_ctl00_ctl19",
+	"dyield" => "FinancialsView1_ctl00_ctl00_ctl19"
+);
+
+%finfields = (
 	"rev" => "FinancialsView1_ctl01_ctl00_ctl01",
 	"margin" => "FinancialsView1_ctl01_ctl00_ctl02",
 	"depr" => "FinancialsView1_ctl01_ctl00_ctl03",
@@ -141,20 +126,32 @@ if ($keepgoing)
 	"roi" => "FinancialsView1_ctl01_ctl00_ctl14",
 	"ebitda" => "FinancialsView1_ctl01_ctl00_ctl15",
 	"ebit" => "FinancialsView1_ctl01_ctl00_ctl16",
-	"cash" => "FinancialsView1_ctl03_ctl00_ctl01",
-	"rec" => "FinancialsView1_ctl03_ctl00_ctl02",
-	"inv" => "FinancialsView1_ctl03_ctl00_ctl03",
-	"oassets" => "FinancialsView1_ctl03_ctl00_ctl04",
-	"debt" => "FinancialsView1_ctl03_ctl00_ctl07",
-	"pay" => "FinancialsView1_ctl03_ctl00_ctl06",
-	"odebt" => "FinancialsView1_ctl03_ctl00_ctl08",
-	"tassets" => "FinancialsView1_ctl03_ctl00_ctl05",
-	"tdebt" => "FinancialsView1_ctl03_ctl00_ctl09",
 );
+
+%capfields = (
+	"tdebt" => "FinancialsView1_ctl02_ctl00_ctl01",
+	"ldebt" => "FinancialsView1_ctl02_ctl00_ctl02",
+	"prefst" => "FinancialsView1_ctl02_ctl00_ctl03",
+	"equity" => "FinancialsView1_ctl02_ctl00_ctl04",
+);
+
+%balfields = (
+	"cash" => "FinancialsView1_ctl03_ctl00_ctl01",
+	"rcvble" => "FinancialsView1_ctl03_ctl00_ctl02",
+	"invntry" => "FinancialsView1_ctl03_ctl00_ctl03",
+	"oassets" => "FinancialsView1_ctl03_ctl00_ctl04",
+	"tassets" => "FinancialsView1_ctl03_ctl00_ctl05",
+	"payable" => "FinancialsView1_ctl03_ctl00_ctl06",
+	"debtdue" => "FinancialsView1_ctl03_ctl00_ctl07",
+	"odebt" => "FinancialsView1_ctl03_ctl00_ctl08",
+	"tliablts" => "FinancialsView1_ctl03_ctl00_ctl09"
+);
+
 
 my $yrlabel;
 my $finyear;
 my $finmonth;
+my $finday;
 
 $filecount = 0;
 
@@ -163,7 +160,10 @@ foreach $datafile (@files)
 	$filecount++;
 	$keepgoing = 1;	
 
-	%stockdata = {};
+	%historicals = {};
+	%financials = {};
+	%capital = {};
+	%balance = {};
 
 	if ( $datafile =~ /$htmldir\/(.*)-Financials.html/ ) { $code = $1; }
 
@@ -197,102 +197,193 @@ foreach $datafile (@files)
 		{
 			chomp($line);
 		
-			# Financial Year
+			# Historical Years
 			if ( $line =~ /FinancialsView1_ctl00_ctl00_lblYear(.*)_field.*\>(.*)\/(.*)\<\/span\>/ )
 			{
 				$yrlabel = $1;
 				$finyear = $2;
 				$finmonth = $3;
-				$findate = "$finyear-$finmonth-30";
-				$findates{$yrlabel} = $findate;
-				$stockdata{$findate} = {};
-			} elsif ( $line =~ /FinancialsView1_ctl01_ctl00_lblYear(.*)_field.*\>(.*)\<\/span\>/ )
+				$finday = Days_in_Month($finyear,$finmonth);
+				$findate = "$finyear-$finmonth-$finday";
+				$histdates{$yrlabel} = $findate;
+				$historicals{$findate} = {};
+
+			# Financial Years
+			} elsif ( $line =~ /FinancialsView1_ctl01_ctl00_lblYear(.*)_field.*\>(.*)\/(.*)\<\/span\>/ )
 			{
+				$yrlabel = $1;
+				$finyear = $2;
+				$finmonth = $3;
+				$finday = Days_in_Month($finyear,$finmonth);
+				$findate = "$finyear-$finmonth-$finday";
+				$findates{$yrlabel} = $findate;
+				$financials{$findate} = {};
+
+			# Balance Years
 			} elsif ( $line =~ /FinancialsView1_ctl03_ctl00_lblYear(.*)_field.*\>(.*)\<\/span\>/ )
 			{
+				$yrlabel = $1;
+				$finyear = $2;
+				$findate = "$finyear-06-30";
+				$baldates{$yrlabel} = $findate;
+				$balance{$findate} = {};
 			} else {
-				foreach $field ( keys %fields )
+
+				foreach $field ( keys %histfields )
 				{
-					$filter = $fields { $field };
+					$filter = $histfields { $field };
 					if ( $line =~ /$filter\_lblYear(.*)_field.*\>(.*)\<\/span\>/ )
 					{
 						$yrlabel = $1;
 						$val = $2;
 						$val =~ s/,//g;
-						if ( $val ne "--" ) { $stockdata{$yrlabel}{ $field } = $val ; }
+						if ( $val ne "--" ) { $historicals{$yrlabel}{ $field } = $val ; }
+					}
+				}
+
+				foreach $field ( keys %finfields )
+				{
+					$filter = $finfields { $field };
+					if ( $line =~ /$filter\_lblYear(.*)_field.*\>(.*)\<\/span\>/ )
+					{
+						$yrlabel = $1;
+						$val = $2;
+						$val =~ s/,//g;
+						if ( $val ne "--" ) { $financials{$yrlabel}{ $field } = $val ; }
+					}
+				}
+				foreach $field ( keys %capfields )
+				{
+					$filter = $capfields { $field };
+					if ( $line =~ /$filter\_lblValue_field.*\>(.*)\<\/span\>/ )
+					{
+						$val = $1;
+						$val =~ s/,//g;
+						if ( $val ne "--" ) { $capital{ $field } = $val ; }
+					}
+				}
+
+				foreach $field ( keys %balfields )
+				{
+					$filter = $balfields { $field };
+					if ( $line =~ /$filter\_lblYear(.*)_field.*\>(.*)\<\/span\>/ )
+					{
+						$yrlabel = $1;
+						$val = $2;
+						$val =~ s/,//g;
+						if ( $val ne "--" ) { $balance{$yrlabel}{ $field } = $val ; }
 					}
 				}
 			}
 		}
 	}
 
-	#Store sales figures
+	#Store figures
 	$result = 1;
+	$histset = "";
+	$finset = "";
+	$capset = "";
+	$balset = "";
+	
+	foreach $yrlabel ( keys %histdates )
+	{
+		$histdate = $histdates{$yrlabel};
+		$set = "";
+		foreach $field ( keys %histfields )
+		{
+			if ( $historicals{$yrlabel}{$field} ){
+				if ( $set ) { $set .= "," ; }
+				$set .=  "$field='".$historicals{$yrlabel}{$field}."'";
+			}
+		}
+		if ( $set )
+		{
+			$sql = "INSERT INTO historicals SET $set, code = '$code', date = '$histdate' on duplicate key update $set";
+			$sth = $dbh->prepare($sql);
+			$result = $sth->execute();
+		} else { $break = 1; $break = 0; }
+	}
+	
 	foreach $yrlabel ( keys %findates )
 	{
 		$findate = $findates{$yrlabel};
 		$set = "";
-		foreach $field ( keys %fields )
+		foreach $field ( keys %finfields )
 		{
-			if ( $stockdata{$yrlabel}{$field} ){
+			if ( $financials{$yrlabel}{$field} ){
 				if ( $set ) { $set .= "," ; }
-				$set .=  " $field = '".$stockdata{$yrlabel}{$field}."'";
+				$set .=  "$field='".$financials{$yrlabel}{$field}."'";
 			}
 		}
-		
-		if ( $set ){
-		
-			$sql = "select date, sales from fundamentals WHERE code = '$code' and period = 'full' and date = '$findate'";
+		if ( $set )
+		{
+			$sql = "INSERT INTO financials SET $set, code = '$code', date = '$findate' on duplicate key update $set";
 			$sth = $dbh->prepare($sql);
 			$result = $sth->execute();
-			if ( $sth->fetchrow_array() )
-			{
-				$sql = "UPDATE fundamentals SET $set WHERE code = '$code' and period = 'full' and date = '$findate'";
-			} else
-			{
-				$sql = "INSERT INTO fundamentals SET $set, code = '$code', period = 'full', date = '$findate'";
+		} else { $break = 1; $break = 0; }
+	}
+
+	$break = 1; $break = 0; 
+
+	foreach $yrlabel ( keys %baldates )
+	{
+		$baldate = $baldates{$yrlabel};
+		$set = "";
+		foreach $field ( keys %balfields )
+		{
+			if ( $balance{$yrlabel}{$field} ){
+				if ( $set ) { $set .= "," ; }
+				$set .=  "$field='".$balance{$yrlabel}{$field}."'";
 			}
-			$sth->finish();
-			
+		}
+		if ( $set )
+		{
+			$sql = "INSERT INTO balance SET $set, code = '$code', date = '$baldate' on duplicate key update $set";
 			$sth = $dbh->prepare($sql);
 			$result = $sth->execute();
-			if ( ! $result )
-			{
-				$thismessage = $sth->errstr.":".$sql;
-				logentry ( $thismessage );
-				$message .= $thismessage."\n";
-			}
-			$sth->finish();
+		} else { $break = 1; $break = 0; }
+	}
+
+	$set = "";
+	foreach $field ( keys %capfields )
+	{
+		if ( $capital{$field} ){
+			if ( $set ) { $set .= "," ; }
+			$set .=  "$field='".$capital{$field}."'";
 		}
 	}
+	if ( $set )
+	{
+		$sql = "INSERT INTO capital SET $set, code = '$code' on duplicate key update $set";
+		$sth = $dbh->prepare($sql);
+		$result = $sth->execute();
+	} else { $break = 1; $break = 0; }
+
 	# Calculate sales growth
-	$sql = "select date, sales from fundamentals WHERE code = '$code' and period = 'full' order by date";
+	$sql = "select date, eps, sales from historicals WHERE code = '$code' order by date";
 	$sth = $dbh->prepare($sql);
 	$result = $sth->execute();
 	$prevdate = "";
 	$prevsales = -999;
+	$preveps = -999;
 	while(@row = $sth->fetchrow_array())
 	{
 		$currentdate = $row[0];
-		$currentsales = $row[1];
+		$currenteps = $row[1];
+		$currentsales = $row[2];
 		if ( $prevdate ) {
 			$salesg = growth ( $currentsales, $prevsales);
-			$sql = "UPDATE fundamentals SET `salesg` = '$salesg' WHERE `code` = '$code'  and `date` = '$currentdate' and `period` = 'full'";
+			$epsg = growth ( $currentsales, $prevsales);
+			$sql = "UPDATE fundamentals SET `salesg` = '$salesg', `epsg` = '$epsg' WHERE `code` = '$code'  and `date` = '$currentdate'";
 			my $sthu = $dbh->prepare($sql);
 			$result = $sthu->execute();
-			if ( ! $result )
-			{
-				$thismessage = $sthu->errstr.":".$sql;
-				logentry ( $thismessage );
-				$message .= $thismessage."\n";
-			}
 			$sthu->finish();
 		}
 		$prevdate = $currentdate;
+		$preveps = $currenteps;
 		$prevsales = $currentsales;
 	}
 	$sth->finish();
-	
 }
 $dbh->disconnect();
 

@@ -18,7 +18,7 @@ my ($pname, $mypath, $type) = fileparse($0,qr{\..*});
 
 # File and directories
 $logfile = "$mypath/$pname.log";
-$htmldir = "$mypath/testhtml";
+$htmldir = "../html";
 
 # SMTP
 my $smtpserver = 'mail.7r.com.au';
